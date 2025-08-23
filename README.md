@@ -1,4 +1,4 @@
-# gics
+# gics-data
 
 ## [English]
 
