@@ -9,7 +9,7 @@ The resources are provided in two language versions: English and Simplified Chin
 
 Available formats:
 
-- Excel spreadsheet
+- CSV Comma seperated file
 - MySQL table schema with data
 - JSON metadata file
 
@@ -38,7 +38,7 @@ GICS是标准普尔与MSCI金融领域指数产品的编制基础。每家公司
 如果您的系统数据只涉及到国内企业，建议使用国标：国民经济行业分类 (GB/T 4754-2017)。
 
 这里提供的格式有：
-- Excel表
+- CSV格式
 - MySQL库结构和数据
 - JSON格式数据
 
