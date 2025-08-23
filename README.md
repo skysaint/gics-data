@@ -22,6 +22,8 @@ You can download the raw data at the following URLs:
 
 https://www.msci.com/indexes/index-resources/gics
 
+https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
+
 https://zh.wikipedia.org/zh-cn/%E5%85%A8%E7%90%83%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86
 
 ------
@@ -48,5 +50,7 @@ GICS是标准普尔与MSCI金融领域指数产品的编制基础。每家公司
 您可以在以下地址下载到原始数据:
 
 https://www.msci.com/indexes/index-resources/gics
+
+https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 
 https://zh.wikipedia.org/zh-cn/%E5%85%A8%E7%90%83%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86
