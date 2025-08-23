@@ -1,0 +1,274 @@
+﻿code,name_en,name_cn,parent_code,level_num
+10,Energy,能源,,1
+15,Materials,材料,,1
+20,Industrials,工业,,1
+25,Consumer Discretionary,非必需消费品,,1
+30,Consumer Staples,必需品,,1
+35,Health Care,卫生保健,,1
+40,Financials,金融,,1
+45,Information Technology,资讯技术,,1
+50,Communication Services,通讯服务,,1
+55,Utilities,公共事业,,1
+60,Real Estate,房地产,,1
+1010,Energy,能源,10,2
+1510,Materials,材料,15,2
+2010,Capital Goods,资本品,20,2
+2020,Commercial & Professional Services,商业和专业服务,20,2
+2030,Transportation,运输,20,2
+2510,Automobiles & Components,汽车及零部件,25,2
+2520,Consumer Durables & Apparel,耐用消费品和服装,25,2
+2530,Consumer Services,消费者服务,25,2
+2550,Consumer Discretionary Distribution & Retail,零售,25,2
+3010,Consumer Staples Distribution & Retail,食品和主食零售,30,2
+3020,"Food, Beverage & Tobacco",食品、饮料和烟草,30,2
+3030,Household & Personal Products,家庭和个人用品,30,2
+3510,Health Care Equipment & Services,医疗保健设备与服务,35,2
+3520,"Pharmaceuticals, Biotechnology & Life Sciences",制药、生物技术和生命科学,35,2
+4010,Banks,银行,40,2
+4020,Financial Services,多元化金融,40,2
+4030,Insurance,保险,40,2
+4510,Software & Services,软件与服务,45,2
+4520,Technology Hardware & Equipment,技术性硬件和设备,45,2
+4530,Semiconductors & Semiconductor Equipment,半导体与半导体设备,45,2
+5010,Telecommunication Services,通讯服务,50,2
+5020,Media & Entertainment,媒体与娱乐,50,2
+5510,Utilities,公共事业,55,2
+6010,Equity Real Estate Investment Trusts (REITs),房地产,60,2
+6020,Real Estate Management & Development,房地产管理与开发,60,2
+101010,Energy Equipment & Services,能源设备与服务,1010,3
+101020,"Oil, Gas & Consumable Fuels",石油、天然气和消费燃料,1010,3
+151010,Chemicals,化学品,1510,3
+151020,Construction Materials,建筑材料,1510,3
+151030,Containers & Packaging,容器与包装,1510,3
+151040,Metals & Mining,金属与矿业,1510,3
+151050,Paper & Forest Products,造纸业和林业,1510,3
+201010,Aerospace & Defense,航空航天与国防,2010,3
+201020,Building Products,建筑产品,2010,3
+201030,Construction & Engineering,建筑与工程,2010,3
+201040,Electrical Equipment,电气设备,2010,3
+201050,Industrial Conglomerates,工业集团,2010,3
+201060,Machinery,机械,2010,3
+201070,Trading Companies & Distributors,贸易公司和分销商,2010,3
+202010,Commercial Services & Supplies,商业服务与用品,2020,3
+202020,Professional Services,专业服务,2020,3
+203010,Air Freight & Logistics,航空货运与物流,2030,3
+203020,Passenger Airlines,航空公司,2030,3
+203030,Marine Transportation,海洋,2030,3
+203040,Ground Transportation,公路与铁路,2030,3
+203050,Transportation Infrastructure,交通基础设施,2030,3
+251010,Automobile Components,汽车零部件,2510,3
+251020,Automobiles,汽车,2510,3
+252010,Household Durables,家庭耐用品,2520,3
+252020,Leisure Products,休闲产品,2520,3
+252030,"Textiles, Apparel & Luxury Goods",纺织品、服装和奢侈品,2520,3
+253010,"Hotels, Restaurants & Leisure",酒店、餐厅与休闲,2530,3
+253020,Diversified Consumer Services,多元化消费者服务,2530,3
+255010,Distributors,分销商,2550,3
+255030,Broadline Retail,多线零售,2550,3
+255040,Specialty Retail,专业零售,2550,3
+301010,Consumer Staples Distribution & Retail,食品和主食零售,3010,3
+302010,Beverages,饮料,3020,3
+302020,Food Products,食品,3020,3
+302030,Tobacco,烟草,3020,3
+303010,Household Products,家用产品,3030,3
+303020,Personal Care Products,个人产品,3030,3
+351010,Health Care Equipment & Supplies,保健设备及用品,3510,3
+351020,Health Care Providers & Services,医疗保健提供者和服务,3510,3
+351030,Health Care Technology,卫生保健技术,3510,3
+352010,Biotechnology,生物技术,3520,3
+352020,Pharmaceuticals,制药,3520,3
+352030,Life Sciences Tools & Services,生命科学工具与服务,3520,3
+401010,Banks,银行,4010,3
+402010,Financial Services,多元化金融服务,4020,3
+402020,Consumer Finance,消费者金融,4020,3
+402030,Capital Markets,资本市场,4020,3
+402040,Mortgage Real Estate Investment Trusts (REITs),抵押房地产投资信托（REIT）,4020,3
+403010,Insurance,保险,4030,3
+451020,IT Services,资讯技术服务,4510,3
+451030,Software,软件,4510,3
+452010,Communications Equipment,通信设备,4520,3
+452020,"Technology Hardware, Storage & Peripherals",技术硬件、存储和外部设备,4520,3
+452030,"Electronic Equipment, Instruments & Components",电子设备、仪器及组件,4520,3
+453010,Semiconductors & Semiconductor Equipment,半导体与半导体设备,4530,3
+501010,Diversified Telecommunication Services,多元化电信服务,5010,3
+501020,Wireless Telecommunication Services,无线电信服务,5010,3
+502010,Media,媒体,5020,3
+502020,Entertainment,娱乐,5020,3
+502030,Interactive Media & Services,互动媒体与服务,5020,3
+551010,Electric Utilities,电气事业,5510,3
+551020,Gas Utilities,燃气事业,5510,3
+551030,Multi-Utilities,复合公共事业,5510,3
+551040,Water Utilities,供水事业,5510,3
+551050,Independent Power and Renewable Electricity Producers,独立电力和可再生电力生产商,5510,3
+601010,Diversified REITs,股票房地产投资信托（REIT）,6010,3
+601025,Industrial REITs,工业地产REITs,6010,3
+601030,Hotel & Resort REITs,酒店及度假村REITs,6010,3
+601040,Office REITs,办公楼/写字楼REITs,6010,3
+601050,Health Care REITs,医疗保健地产REITs,6010,3
+601060,Residential REITs,住宅地产REITs,6010,3
+601070,Retail REITs,零售地产REITs,6010,3
+601080,Specialized REITs,专业地产REITs,6010,3
+602010,Real Estate Management & Development,房地产开发与管理,6020,3
+10101010,Oil & Gas Drilling,石油和天然气钻探,101010,4
+10101020,Oil & Gas Equipment & Services,石油和天然气设备与服务,101010,4
+10102010,Integrated Oil & Gas,油气一体化,101020,4
+10102020,Oil & Gas Exploration & Production,油气勘探与生产,101020,4
+10102030,Oil & Gas Refining & Marketing,石油和天然气精炼与销售,101020,4
+10102040,Oil & Gas Storage & Transportation,油气储运,101020,4
+10102050,Coal & Consumable Fuels,煤炭与消耗性燃料,101020,4
+15101010,Commodity Chemicals,商品化学品,151010,4
+15101020,Diversified Chemicals,多种化学品,151010,4
+15101030,Fertilizers & Agricultural Chemicals,肥料和农用化学品,151010,4
+15101040,Industrial Gases,工业用气体,151010,4
+15101050,Specialty Chemicals,特种化学品,151010,4
+15102010,Construction Materials,建筑材料,151020,4
+15103010,"Metal, Glass & Plastic Containers",金属和玻璃容器,151030,4
+15103020,Paper & Plastic Packaging Products & Materials,纸包装,151030,4
+15104010,Aluminum,铝,151040,4
+15104020,Diversified Metals & Mining,多种金属与综合矿业,151040,4
+15104025,Copper,铜,151040,4
+15104030,Gold,金,151040,4
+15104040,Precious Metals & Minerals,贵金属及其矿物,151040,4
+15104045,Silver,银,151040,4
+15104050,Steel,钢,151040,4
+15105010,Forest Products,林业产品,151050,4
+15105020,Paper Products,造纸业,151050,4
+20101010,Aerospace & Defense,航空航天与国防,201010,4
+20102010,Building Products,建筑产品,201020,4
+20103010,Construction & Engineering,建筑与工程,201030,4
+20104010,Electrical Components & Equipment,电气元件和设备,201040,4
+20104020,Heavy Electrical Equipment,重型电气设备,201040,4
+20105010,Industrial Conglomerates,工业集团,201050,4
+20106010,Construction Machinery & Heavy Transportation Equipment,建筑机械与重型卡车,201060,4
+20106015,Agricultural & Farm Machinery,农用机械,201060,4
+20106020,Industrial Machinery & Supplies & Components,工业机械,201060,4
+20107010,Trading Companies & Distributors,贸易公司和分销商,201070,4
+20201010,Commercial Printing,商业印刷,202010,4
+20201050,Environmental & Facilities Services,环境与设施服务,202010,4
+20201060,Office Services & Supplies,办公服务和用品,202010,4
+20201070,Diversified Support Services,综合支持服务,202010,4
+20201080,Security & Alarm Services,安全和警报服务,202010,4
+20202010,Human Resource & Employment Services,人力资源与就业服务,202020,4
+20202020,Research & Consulting Services,研究与咨询服务,202020,4
+20202030,Data Processing & Outsourced Services,数据处理与外包服务,202020,4
+20301010,Air Freight & Logistics,航空货运与物流,203010,4
+20302010,Passenger Airlines,航空公司,203020,4
+20303010,Marine Transportation,海洋,203030,4
+20304010,Rail Transportation,铁路,203040,4
+20304030,Cargo Ground Transportation,货物地面运输,203040,4
+20304040,Passenger Ground Transportation,旅客地面运输,203040,4
+20305010,Airport Services,机场服务,203050,4
+20305020,Highways & Railtracks,公路和铁路,203050,4
+20305030,Marine Ports & Services,海洋港口与服务,203050,4
+25101010,Automotive Parts & Equipment,汽车零部件和设备,251010,4
+25101020,Tires & Rubber,轮胎和橡胶,251010,4
+25102010,Automobile Manufacturers,汽车制造商,251020,4
+25102020,Motorcycle Manufacturers,摩托车制造商,251020,4
+25201010,Consumer Electronics,消费电子,252010,4
+25201020,Home Furnishings,家居摆设,252010,4
+25201030,Homebuilding,房屋建筑,252010,4
+25201040,Household Appliances,家用电器,252010,4
+25201050,Housewares & Specialties,家庭用品和特色,252010,4
+25202010,Leisure Products,休闲产品,252020,4
+25203010,"Apparel, Accessories & Luxury Goods",服装、配饰和奢侈品,252030,4
+25203020,Footwear,鞋类,252030,4
+25203030,Textiles,纺织品,252030,4
+25301010,Casinos & Gaming,赌场与游戏,253010,4
+25301020,"Hotels, Resorts & Cruise Lines",酒店、度假村与邮轮公司,253010,4
+25301030,Leisure Facilities,休闲设施,253010,4
+25301040,Restaurants,餐厅,253010,4
+25302010,Education Services,教育服务,253020,4
+25302020,Specialized Consumer Services,专业消费者服务,253020,4
+25501010,Distributors,分销商,255010,4
+25503030,Broadline Retail,综合零售,255030,4
+25504010,Apparel Retail,服装零售,255040,4
+25504020,Computer & Electronics Retail,电脑和电子产品零售,255040,4
+25504030,Home Improvement Retail,家居装饰零售,255040,4
+25504040,Other Specialty Retail,专卖店,255040,4
+25504050,Automotive Retail,汽车零售,255040,4
+25504060,Homefurnishing Retail,家居零售,255040,4
+30101010,Drug Retail,药品零售,301010,4
+30101020,Food Distributors,食品分销商,301010,4
+30101030,Food Retail,食品零售,301010,4
+30101040,Consumer Staples Merchandise Retail,大型超市和超级购物中心,301010,4
+30201010,Brewers,啤酒厂,302010,4
+30201020,Distillers & Vintners,蒸馏酒厂和葡萄酒厂,302010,4
+30201030,Soft Drinks & Non-alcoholic Beverages,软饮料,302010,4
+30202010,Agricultural Products & Services,农产品,302020,4
+30202030,Packaged Foods & Meats,包装食品和肉类,302020,4
+30203010,Tobacco,烟草,302030,4
+30301010,Household Products,家居用品,303010,4
+30302010,Personal Care Products,个人产品,303020,4
+35101010,Health Care Equipment,保健设备,351010,4
+35101020,Health Care Supplies,卫生保健用品,351010,4
+35102010,Health Care Distributors,医疗保健分销商,351020,4
+35102015,Health Care Services,卫生保健服务,351020,4
+35102020,Health Care Facilities,卫生保健设施,351020,4
+35102030,Managed Health Care,管理式医疗保健,351020,4
+35103010,Health Care Technology,卫生保健技术,351030,4
+35201010,Biotechnology,生物技术,352010,4
+35202010,Pharmaceuticals,制药,352020,4
+35203010,Life Sciences Tools & Services,生命科学工具与服务,352030,4
+40101010,Diversified Banks,多元化银行,401010,4
+40101015,Regional Banks,区域银行,401010,4
+40201020,Diversified Financial Services,其他多元化金融服务,402010,4
+40201030,Multi-Sector Holdings,多领域控股,402010,4
+40201040,Specialized Finance,专业金融,402010,4
+40201050,Commercial & Residential Mortgage Finance,商业与住宅抵押贷款融资,402010,4
+40201060,Transaction & Payment Processing Services,交易与支付处理服务,402010,4
+40202010,Consumer Finance,消费者金融,402020,4
+40203010,Asset Management & Custody Banks,资产管理与托管银行,402030,4
+40203020,Investment Banking & Brokerage,投资银行与经纪,402030,4
+40203030,Diversified Capital Markets,多元化的资本市场,402030,4
+40203040,Financial Exchanges & Data,财务交易与数据,402030,4
+40204010,Mortgage REITs,抵押房地产投资信托,402040,4
+40301010,Insurance Brokers,保险经纪人,403010,4
+40301020,Life & Health Insurance,人寿与健康保险,403010,4
+40301030,Multi-line Insurance,多线保险,403010,4
+40301040,Property & Casualty Insurance,财产保险,403010,4
+40301050,Reinsurance,再保险,403010,4
+45102010,IT Consulting & Other Services,资讯技术咨询和其他服务,451020,4
+45102030,Internet Services & Infrastructure,互联网服务与基础设施,451020,4
+45103010,Application Software,应用软件,451030,4
+45103020,Systems Software,系统软件,451030,4
+45201020,Communications Equipment,通信设备,452010,4
+45202030,"Technology Hardware, Storage & Peripherals",技术硬件、存储和外部设备,452020,4
+45203010,Electronic Equipment & Instruments,电子设备及仪器,452030,4
+45203015,Electronic Components,电子元器件,452030,4
+45203020,Electronic Manufacturing Services,电子制造服务,452030,4
+45203030,Technology Distributors,技术分销商,452030,4
+45301010,Semiconductor Materials & Equipment,半导体设备,453010,4
+45301020,Semiconductors,半导体,453010,4
+50101010,Alternative Carriers,替代性电信运营商,501010,4
+50101020,Integrated Telecommunication Services,综合电信服务,501010,4
+50102010,Wireless Telecommunication Services,无线电信服务,501020,4
+50201010,Advertising,广告,502010,4
+50201020,Broadcasting,广播,502010,4
+50201030,Cable & Satellite,有线和卫星,502010,4
+50201040,Publishing,出版,502010,4
+50202010,Movies & Entertainment,影视娱乐,502020,4
+50202020,Interactive Home Entertainment,互动家庭娱乐,502020,4
+50203010,Interactive Media & Services,互动媒体与服务,502030,4
+55101010,Electric Utilities,电气事业,551010,4
+55102010,Gas Utilities,燃气事业,551020,4
+55103010,Multi-Utilities,复合公共事业,551030,4
+55104010,Water Utilities,供水事业,551040,4
+55105010,Independent Power Producers & Energy Traders,独立电力生产商和能源贸易商,551050,4
+55105020,Renewable Electricity,可再生电力,551050,4
+60101010,Diversified REITs,多元化房地产投资信托,601010,4
+60102510,Industrial REITs,工业地产REITs,601025,4
+60103010,Hotel & Resort REITs,酒店及度假村REITs,601030,4
+60104010,Office REITs,办公楼REITs,601040,4
+60105010,Health Care REITs,医疗保健地产REITs,601050,4
+60106010,Multi-Family Residential REITs,多户住宅REITs,601060,4
+60106020,Single-Family Residential REITs,独户住宅REITs,601060,4
+60107010,Retail REITs,零售地产REITs,601070,4
+60108010,Other Specialized REITs,其他专业地产REITs,601080,4
+60108020,Self-Storage REITs,自助仓储REITs,601080,4
+60108030,Telecom Tower REITs,电信塔REITs,601080,4
+60108040,Timber REITs,木材地产REITs,601080,4
+60108050,Data Center REITs,数据中心REITs,601080,4
+60201010,Diversified Real Estate Activities,多元化房地产活动,602010,4
+60201020,Real Estate Operating Companies,房地产运营公司,602010,4
+60201030,Real Estate Development,房地产开发,602010,4
+60201040,Real Estate Services,房地产服务,602010,4

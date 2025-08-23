@@ -1,0 +1,1640 @@
+[
+  {
+    "code": 10,
+    "name": "Energy",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 15,
+    "name": "Materials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 20,
+    "name": "Industrials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 25,
+    "name": "Consumer Discretionary",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 30,
+    "name": "Consumer Staples",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 35,
+    "name": "Health Care",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 40,
+    "name": "Financials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 45,
+    "name": "Information Technology",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 50,
+    "name": "Communication Services",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 55,
+    "name": "Utilities",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 60,
+    "name": "Real Estate",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 1010,
+    "name": "Energy",
+    "parent_code": 10,
+    "level_num": 2
+  },
+  {
+    "code": 1510,
+    "name": "Materials",
+    "parent_code": 15,
+    "level_num": 2
+  },
+  {
+    "code": 2010,
+    "name": "Capital Goods",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2020,
+    "name": "Commercial & Professional Services",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2030,
+    "name": "Transportation",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2510,
+    "name": "Automobiles & Components",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2520,
+    "name": "Consumer Durables?& Apparel",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2530,
+    "name": "Consumer Services",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2550,
+    "name": "Consumer Discretionary Distribution &?Retail",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 3010,
+    "name": "Consumer Staples Distribution & Retail",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3020,
+    "name": "Food, Beverage & Tobacco",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3030,
+    "name": "Household & Personal Products",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3510,
+    "name": "Health Care Equipment & Services",
+    "parent_code": 35,
+    "level_num": 2
+  },
+  {
+    "code": 3520,
+    "name": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "parent_code": 35,
+    "level_num": 2
+  },
+  {
+    "code": 4010,
+    "name": "Banks",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4020,
+    "name": "Financial Services",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4030,
+    "name": "Insurance",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4510,
+    "name": "Software & Services",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 4520,
+    "name": "Technology Hardware & Equipment",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 4530,
+    "name": "Semiconductors & Semiconductor Equipment",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 5010,
+    "name": "Telecommunication Services",
+    "parent_code": 50,
+    "level_num": 2
+  },
+  {
+    "code": 5020,
+    "name": "Media & Entertainment",
+    "parent_code": 50,
+    "level_num": 2
+  },
+  {
+    "code": 5510,
+    "name": "Utilities",
+    "parent_code": 55,
+    "level_num": 2
+  },
+  {
+    "code": 6010,
+    "name": "Equity Real Estate Investment Trusts (REITs)",
+    "parent_code": 60,
+    "level_num": 2
+  },
+  {
+    "code": 6020,
+    "name": "Real Estate Management & Development",
+    "parent_code": 60,
+    "level_num": 2
+  },
+  {
+    "code": 101010,
+    "name": "Energy Equipment & Services",
+    "parent_code": 1010,
+    "level_num": 3
+  },
+  {
+    "code": 101020,
+    "name": "Oil,?Gas?& Consumable Fuels",
+    "parent_code": 1010,
+    "level_num": 3
+  },
+  {
+    "code": 151010,
+    "name": "Chemicals",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151020,
+    "name": "Construction Materials",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151030,
+    "name": "Containers?&?Packaging",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151040,
+    "name": "Metals?&?Mining",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151050,
+    "name": "Paper & Forest Products",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 201010,
+    "name": "Aerospace?&?Defense",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201020,
+    "name": "Building Products",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201030,
+    "name": "Construction?&?Engineering",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201040,
+    "name": "Electrical Equipment",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201050,
+    "name": "Industrial Conglomerates",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201060,
+    "name": "Machinery",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201070,
+    "name": "Trading Companies?&?Distributors",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 202010,
+    "name": "Commercial Services & Supplies",
+    "parent_code": 2020,
+    "level_num": 3
+  },
+  {
+    "code": 202020,
+    "name": "Professional Services",
+    "parent_code": 2020,
+    "level_num": 3
+  },
+  {
+    "code": 203010,
+    "name": "Air Freight?&?Logistics",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203020,
+    "name": "Passenger?Airlines",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203030,
+    "name": "Marine Transportation",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203040,
+    "name": "Ground Transportation",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203050,
+    "name": "Transportation Infrastructure",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 251010,
+    "name": "Automobile Components",
+    "parent_code": 2510,
+    "level_num": 3
+  },
+  {
+    "code": 251020,
+    "name": "Automobiles",
+    "parent_code": 2510,
+    "level_num": 3
+  },
+  {
+    "code": 252010,
+    "name": "Household Durables",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 252020,
+    "name": "Leisure Products",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 252030,
+    "name": "Textiles,?Apparel?& Luxury Goods",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 253010,
+    "name": "Hotels, Restaurants & Leisure",
+    "parent_code": 2530,
+    "level_num": 3
+  },
+  {
+    "code": 253020,
+    "name": "Diversified Consumer Services",
+    "parent_code": 2530,
+    "level_num": 3
+  },
+  {
+    "code": 255010,
+    "name": "Distributors",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 255030,
+    "name": "Broadline Retail",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 255040,
+    "name": "Specialty Retail",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 301010,
+    "name": "Consumer Staples Distribution & Retail",
+    "parent_code": 3010,
+    "level_num": 3
+  },
+  {
+    "code": 302010,
+    "name": "Beverages",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 302020,
+    "name": "Food Products",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 302030,
+    "name": "Tobacco",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 303010,
+    "name": "Household Products",
+    "parent_code": 3030,
+    "level_num": 3
+  },
+  {
+    "code": 303020,
+    "name": "Personal Care Products",
+    "parent_code": 3030,
+    "level_num": 3
+  },
+  {
+    "code": 351010,
+    "name": "Health Care Equipment & Supplies",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 351020,
+    "name": "Health Care Providers & Services",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 351030,
+    "name": "Health Care Technology",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 352010,
+    "name": "Biotechnology",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 352020,
+    "name": "Pharmaceuticals",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 352030,
+    "name": "Life Sciences Tools & Services",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 401010,
+    "name": "Banks",
+    "parent_code": 4010,
+    "level_num": 3
+  },
+  {
+    "code": 402010,
+    "name": "Financial Services",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402020,
+    "name": "Consumer Finance",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402030,
+    "name": "Capital Markets",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402040,
+    "name": "Mortgage Real Estate Investment Trusts (REITs)",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 403010,
+    "name": "Insurance",
+    "parent_code": 4030,
+    "level_num": 3
+  },
+  {
+    "code": 451020,
+    "name": "IT Services",
+    "parent_code": 4510,
+    "level_num": 3
+  },
+  {
+    "code": 451030,
+    "name": "Software",
+    "parent_code": 4510,
+    "level_num": 3
+  },
+  {
+    "code": 452010,
+    "name": "Communications Equipment",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 452020,
+    "name": "Technology Hardware, Storage & Peripherals",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 452030,
+    "name": "Electronic Equipment, Instruments & Components",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 453010,
+    "name": "Semiconductors & Semiconductor Equipment",
+    "parent_code": 4530,
+    "level_num": 3
+  },
+  {
+    "code": 501010,
+    "name": "Diversified Telecommunication Services",
+    "parent_code": 5010,
+    "level_num": 3
+  },
+  {
+    "code": 501020,
+    "name": "Wireless Telecommunication Services",
+    "parent_code": 5010,
+    "level_num": 3
+  },
+  {
+    "code": 502010,
+    "name": "Media",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 502020,
+    "name": "Entertainment",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 502030,
+    "name": "Interactive Media?& Services",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 551010,
+    "name": "Electric Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551020,
+    "name": "Gas Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551030,
+    "name": "Multi-Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551040,
+    "name": "Water Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551050,
+    "name": "Independent Power and?Renewable Electricity?Producers",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 601010,
+    "name": "Diversified REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601025,
+    "name": "Industrial REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601030,
+    "name": "Hotel & Resort REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601040,
+    "name": "Office REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601050,
+    "name": "Health Care REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601060,
+    "name": "Residential REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601070,
+    "name": "Retail REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601080,
+    "name": "Specialized REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 602010,
+    "name": "Real Estate Management?& Development",
+    "parent_code": 6020,
+    "level_num": 3
+  },
+  {
+    "code": 10101010,
+    "name": "Oil?& Gas Drilling",
+    "parent_code": 101010,
+    "level_num": 4
+  },
+  {
+    "code": 10101020,
+    "name": "Oil & Gas Equipment & Services",
+    "parent_code": 101010,
+    "level_num": 4
+  },
+  {
+    "code": 10102010,
+    "name": "Integrated Oil & Gas",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102020,
+    "name": "Oil & Gas Exploration?& Production",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102030,
+    "name": "Oil?&?Gas Refining?& Marketing",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102040,
+    "name": "Oil?&?Gas Storage?& Transportation",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102050,
+    "name": "Coal?& Consumable Fuels",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 15101010,
+    "name": "Commodity Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101020,
+    "name": "Diversified Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101030,
+    "name": "Fertilizers?&?Agricultural Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101040,
+    "name": "Industrial Gases",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101050,
+    "name": "Specialty Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15102010,
+    "name": "Construction Materials",
+    "parent_code": 151020,
+    "level_num": 4
+  },
+  {
+    "code": 15103010,
+    "name": "Metal, Glass &?Plastic Containers",
+    "parent_code": 151030,
+    "level_num": 4
+  },
+  {
+    "code": 15103020,
+    "name": "Paper & Plastic Packaging Products & Materials",
+    "parent_code": 151030,
+    "level_num": 4
+  },
+  {
+    "code": 15104010,
+    "name": "Aluminum",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104020,
+    "name": "Diversified Metals & Mining",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104025,
+    "name": "Copper",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104030,
+    "name": "Gold",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104040,
+    "name": "Precious Metals?&?Minerals",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104045,
+    "name": "Silver",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104050,
+    "name": "Steel",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15105010,
+    "name": "Forest Products",
+    "parent_code": 151050,
+    "level_num": 4
+  },
+  {
+    "code": 15105020,
+    "name": "Paper Products",
+    "parent_code": 151050,
+    "level_num": 4
+  },
+  {
+    "code": 20101010,
+    "name": "Aerospace & Defense",
+    "parent_code": 201010,
+    "level_num": 4
+  },
+  {
+    "code": 20102010,
+    "name": "Building Products",
+    "parent_code": 201020,
+    "level_num": 4
+  },
+  {
+    "code": 20103010,
+    "name": "Construction?& Engineering",
+    "parent_code": 201030,
+    "level_num": 4
+  },
+  {
+    "code": 20104010,
+    "name": "Electrical Components?& Equipment",
+    "parent_code": 201040,
+    "level_num": 4
+  },
+  {
+    "code": 20104020,
+    "name": "Heavy Electrical Equipment",
+    "parent_code": 201040,
+    "level_num": 4
+  },
+  {
+    "code": 20105010,
+    "name": "Industrial Conglomerates",
+    "parent_code": 201050,
+    "level_num": 4
+  },
+  {
+    "code": 20106010,
+    "name": "Construction Machinery?& Heavy Transportation Equipment",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20106015,
+    "name": "Agricultural & Farm Machinery",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20106020,
+    "name": "Industrial Machinery & Supplies & Components",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20107010,
+    "name": "Trading Companies & Distributors",
+    "parent_code": 201070,
+    "level_num": 4
+  },
+  {
+    "code": 20201010,
+    "name": "Commercial Printing",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201050,
+    "name": "Environmental & Facilities Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201060,
+    "name": "Office Services &?Supplies",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201070,
+    "name": "Diversified Support Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201080,
+    "name": "Security?& Alarm Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20202010,
+    "name": "Human Resource?& Employment Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20202020,
+    "name": "Research &?Consulting Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20202030,
+    "name": "Data Processing?&?Outsourced Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20301010,
+    "name": "Air Freight &?Logistics",
+    "parent_code": 203010,
+    "level_num": 4
+  },
+  {
+    "code": 20302010,
+    "name": "Passenger Airlines",
+    "parent_code": 203020,
+    "level_num": 4
+  },
+  {
+    "code": 20303010,
+    "name": "Marine Transportation",
+    "parent_code": 203030,
+    "level_num": 4
+  },
+  {
+    "code": 20304010,
+    "name": "Rail Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20304030,
+    "name": "Cargo Ground Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20304040,
+    "name": "Passenger Ground Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20305010,
+    "name": "Airport?Services",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 20305020,
+    "name": "Highways?&?Railtracks",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 20305030,
+    "name": "Marine?Ports?& Services",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 25101010,
+    "name": "Automotive Parts & Equipment",
+    "parent_code": 251010,
+    "level_num": 4
+  },
+  {
+    "code": 25101020,
+    "name": "Tires?& Rubber",
+    "parent_code": 251010,
+    "level_num": 4
+  },
+  {
+    "code": 25102010,
+    "name": "Automobile Manufacturers",
+    "parent_code": 251020,
+    "level_num": 4
+  },
+  {
+    "code": 25102020,
+    "name": "Motorcycle Manufacturers",
+    "parent_code": 251020,
+    "level_num": 4
+  },
+  {
+    "code": 25201010,
+    "name": "Consumer Electronics",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201020,
+    "name": "Home Furnishings",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201030,
+    "name": "Homebuilding",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201040,
+    "name": "Household Appliances",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201050,
+    "name": "Housewares & Specialties",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25202010,
+    "name": "Leisure Products",
+    "parent_code": 252020,
+    "level_num": 4
+  },
+  {
+    "code": 25203010,
+    "name": "Apparel,?Accessories?&?Luxury Goods",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25203020,
+    "name": "Footwear",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25203030,
+    "name": "Textiles",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25301010,
+    "name": "Casinos?&?Gaming",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301020,
+    "name": "Hotels,?Resorts?&?Cruise Lines",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301030,
+    "name": "Leisure Facilities",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301040,
+    "name": "Restaurants",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25302010,
+    "name": "Education?Services",
+    "parent_code": 253020,
+    "level_num": 4
+  },
+  {
+    "code": 25302020,
+    "name": "Specialized Consumer Services",
+    "parent_code": 253020,
+    "level_num": 4
+  },
+  {
+    "code": 25501010,
+    "name": "Distributors",
+    "parent_code": 255010,
+    "level_num": 4
+  },
+  {
+    "code": 25503030,
+    "name": "Broadline Retail",
+    "parent_code": 255030,
+    "level_num": 4
+  },
+  {
+    "code": 25504010,
+    "name": "Apparel Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504020,
+    "name": "Computer & Electronics Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504030,
+    "name": "Home Improvement Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504040,
+    "name": "Other Specialty Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504050,
+    "name": "Automotive Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504060,
+    "name": "Homefurnishing Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 30101010,
+    "name": "Drug Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101020,
+    "name": "Food Distributors",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101030,
+    "name": "Food Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101040,
+    "name": "Consumer Staples Merchandise Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30201010,
+    "name": "Brewers",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30201020,
+    "name": "Distillers?&?Vintners",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30201030,
+    "name": "Soft Drinks?&?Non-alcoholic Beverages",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30202010,
+    "name": "Agricultural Products & Services",
+    "parent_code": 302020,
+    "level_num": 4
+  },
+  {
+    "code": 30202030,
+    "name": "Packaged Foods?&?Meats",
+    "parent_code": 302020,
+    "level_num": 4
+  },
+  {
+    "code": 30203010,
+    "name": "Tobacco",
+    "parent_code": 302030,
+    "level_num": 4
+  },
+  {
+    "code": 30301010,
+    "name": "Household Products",
+    "parent_code": 303010,
+    "level_num": 4
+  },
+  {
+    "code": 30302010,
+    "name": "Personal Care Products",
+    "parent_code": 303020,
+    "level_num": 4
+  },
+  {
+    "code": 35101010,
+    "name": "Health Care Equipment",
+    "parent_code": 351010,
+    "level_num": 4
+  },
+  {
+    "code": 35101020,
+    "name": "Health Care Supplies",
+    "parent_code": 351010,
+    "level_num": 4
+  },
+  {
+    "code": 35102010,
+    "name": "Health Care Distributors",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102015,
+    "name": "Health Care Services",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102020,
+    "name": "Health Care Facilities",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102030,
+    "name": "Managed Health Care",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35103010,
+    "name": "Health Care Technology",
+    "parent_code": 351030,
+    "level_num": 4
+  },
+  {
+    "code": 35201010,
+    "name": "Biotechnology",
+    "parent_code": 352010,
+    "level_num": 4
+  },
+  {
+    "code": 35202010,
+    "name": "Pharmaceuticals",
+    "parent_code": 352020,
+    "level_num": 4
+  },
+  {
+    "code": 35203010,
+    "name": "Life Sciences Tools & Services",
+    "parent_code": 352030,
+    "level_num": 4
+  },
+  {
+    "code": 40101010,
+    "name": "Diversified Banks",
+    "parent_code": 401010,
+    "level_num": 4
+  },
+  {
+    "code": 40101015,
+    "name": "Regional Banks",
+    "parent_code": 401010,
+    "level_num": 4
+  },
+  {
+    "code": 40201020,
+    "name": "Diversified Financial Services",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201030,
+    "name": "Multi-Sector Holdings",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201040,
+    "name": "Specialized Finance",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201050,
+    "name": "Commercial & Residential?Mortgage?Finance",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201060,
+    "name": "Transaction?&?Payment Processing Services",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40202010,
+    "name": "Consumer Finance",
+    "parent_code": 402020,
+    "level_num": 4
+  },
+  {
+    "code": 40203010,
+    "name": "Asset Management?&?Custody Banks",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203020,
+    "name": "Investment Banking?&?Brokerage",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203030,
+    "name": "Diversified Capital Markets",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203040,
+    "name": "Financial Exchanges?& Data",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40204010,
+    "name": "Mortgage REITs",
+    "parent_code": 402040,
+    "level_num": 4
+  },
+  {
+    "code": 40301010,
+    "name": "Insurance Brokers",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301020,
+    "name": "Life?&?Health Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301030,
+    "name": "Multi-line Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301040,
+    "name": "Property?&?Casualty Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301050,
+    "name": "Reinsurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 45102010,
+    "name": "IT Consulting?& Other Services",
+    "parent_code": 451020,
+    "level_num": 4
+  },
+  {
+    "code": 45102030,
+    "name": "Internet Services?&?Infrastructure",
+    "parent_code": 451020,
+    "level_num": 4
+  },
+  {
+    "code": 45103010,
+    "name": "Application Software",
+    "parent_code": 451030,
+    "level_num": 4
+  },
+  {
+    "code": 45103020,
+    "name": "Systems Software",
+    "parent_code": 451030,
+    "level_num": 4
+  },
+  {
+    "code": 45201020,
+    "name": "Communications Equipment",
+    "parent_code": 452010,
+    "level_num": 4
+  },
+  {
+    "code": 45202030,
+    "name": "Technology Hardware, Storage & Peripherals",
+    "parent_code": 452020,
+    "level_num": 4
+  },
+  {
+    "code": 45203010,
+    "name": "Electronic Equipment & Instruments",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203015,
+    "name": "Electronic Components",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203020,
+    "name": "Electronic Manufacturing Services",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203030,
+    "name": "Technology Distributors",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45301010,
+    "name": "Semiconductor Materials & Equipment",
+    "parent_code": 453010,
+    "level_num": 4
+  },
+  {
+    "code": 45301020,
+    "name": "Semiconductors",
+    "parent_code": 453010,
+    "level_num": 4
+  },
+  {
+    "code": 50101010,
+    "name": "Alternative Carriers",
+    "parent_code": 501010,
+    "level_num": 4
+  },
+  {
+    "code": 50101020,
+    "name": "Integrated Telecommunication Services",
+    "parent_code": 501010,
+    "level_num": 4
+  },
+  {
+    "code": 50102010,
+    "name": "Wireless Telecommunication Services",
+    "parent_code": 501020,
+    "level_num": 4
+  },
+  {
+    "code": 50201010,
+    "name": "Advertising",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201020,
+    "name": "Broadcasting",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201030,
+    "name": "Cable?&?Satellite",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201040,
+    "name": "Publishing",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50202010,
+    "name": "Movies & Entertainment",
+    "parent_code": 502020,
+    "level_num": 4
+  },
+  {
+    "code": 50202020,
+    "name": "Interactive Home Entertainment",
+    "parent_code": 502020,
+    "level_num": 4
+  },
+  {
+    "code": 50203010,
+    "name": "Interactive Media & Services",
+    "parent_code": 502030,
+    "level_num": 4
+  },
+  {
+    "code": 55101010,
+    "name": "Electric Utilities",
+    "parent_code": 551010,
+    "level_num": 4
+  },
+  {
+    "code": 55102010,
+    "name": "Gas Utilities",
+    "parent_code": 551020,
+    "level_num": 4
+  },
+  {
+    "code": 55103010,
+    "name": "Multi-Utilities",
+    "parent_code": 551030,
+    "level_num": 4
+  },
+  {
+    "code": 55104010,
+    "name": "Water Utilities",
+    "parent_code": 551040,
+    "level_num": 4
+  },
+  {
+    "code": 55105010,
+    "name": "Independent Power Producers?& Energy Traders",
+    "parent_code": 551050,
+    "level_num": 4
+  },
+  {
+    "code": 55105020,
+    "name": "Renewable Electricity",
+    "parent_code": 551050,
+    "level_num": 4
+  },
+  {
+    "code": 60101010,
+    "name": "Diversified REITs",
+    "parent_code": 601010,
+    "level_num": 4
+  },
+  {
+    "code": 60102510,
+    "name": "Industrial REITs",
+    "parent_code": 601025,
+    "level_num": 4
+  },
+  {
+    "code": 60103010,
+    "name": "Hotel & Resort REITs",
+    "parent_code": 601030,
+    "level_num": 4
+  },
+  {
+    "code": 60104010,
+    "name": "Office REITs",
+    "parent_code": 601040,
+    "level_num": 4
+  },
+  {
+    "code": 60105010,
+    "name": "Health Care REITs",
+    "parent_code": 601050,
+    "level_num": 4
+  },
+  {
+    "code": 60106010,
+    "name": "Multi-Family Residential REITs",
+    "parent_code": 601060,
+    "level_num": 4
+  },
+  {
+    "code": 60106020,
+    "name": "Single-Family Residential REITs",
+    "parent_code": 601060,
+    "level_num": 4
+  },
+  {
+    "code": 60107010,
+    "name": "Retail REITs",
+    "parent_code": 601070,
+    "level_num": 4
+  },
+  {
+    "code": 60108010,
+    "name": "Other Specialized REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108020,
+    "name": "Self-Storage REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108030,
+    "name": "Telecom Tower REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108040,
+    "name": "Timber REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108050,
+    "name": "Data Center REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60201010,
+    "name": "Diversified Real Estate Activities",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201020,
+    "name": "Real Estate Operating Companies",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201030,
+    "name": "Real Estate Development",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201040,
+    "name": "Real Estate Services",
+    "parent_code": 602010,
+    "level_num": 4
+  }
+]
