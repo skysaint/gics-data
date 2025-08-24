@@ -1,1913 +1,1913 @@
 [
-    {
-        "code": 10,
-        "name_en": "Energy",
-        "name_cn": "能源",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 15,
-        "name_en": "Materials",
-        "name_cn": "材料",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 20,
-        "name_en": "Industrials",
-        "name_cn": "工业",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 25,
-        "name_en": "Consumer Discretionary",
-        "name_cn": "非必需消费品",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 30,
-        "name_en": "Consumer Staples",
-        "name_cn": "必需品",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 35,
-        "name_en": "Health Care",
-        "name_cn": "卫生保健",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 40,
-        "name_en": "Financials",
-        "name_cn": "金融",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 45,
-        "name_en": "Information Technology",
-        "name_cn": "资讯技术",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 50,
-        "name_en": "Communication Services",
-        "name_cn": "通讯服务",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 55,
-        "name_en": "Utilities",
-        "name_cn": "公共事业",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 60,
-        "name_en": "Real Estate",
-        "name_cn": "房地产",
-        "parent_code": "",
-        "level_num": 1
-    },
-    {
-        "code": 1010,
-        "name_en": "Energy",
-        "name_cn": "能源",
-        "parent_code": 10,
-        "level_num": 2
-    },
-    {
-        "code": 1510,
-        "name_en": "Materials",
-        "name_cn": "材料",
-        "parent_code": 15,
-        "level_num": 2
-    },
-    {
-        "code": 2010,
-        "name_en": "Capital Goods",
-        "name_cn": "资本品",
-        "parent_code": 20,
-        "level_num": 2
-    },
-    {
-        "code": 2020,
-        "name_en": "Commercial & Professional Services",
-        "name_cn": "商业和专业服务",
-        "parent_code": 20,
-        "level_num": 2
-    },
-    {
-        "code": 2030,
-        "name_en": "Transportation",
-        "name_cn": "运输",
-        "parent_code": 20,
-        "level_num": 2
-    },
-    {
-        "code": 2510,
-        "name_en": "Automobiles & Components",
-        "name_cn": "汽车及零部件",
-        "parent_code": 25,
-        "level_num": 2
-    },
-    {
-        "code": 2520,
-        "name_en": "Consumer Durables & Apparel",
-        "name_cn": "耐用消费品和服装",
-        "parent_code": 25,
-        "level_num": 2
-    },
-    {
-        "code": 2530,
-        "name_en": "Consumer Services",
-        "name_cn": "消费者服务",
-        "parent_code": 25,
-        "level_num": 2
-    },
-    {
-        "code": 2550,
-        "name_en": "Consumer Discretionary Distribution & Retail",
-        "name_cn": "零售",
-        "parent_code": 25,
-        "level_num": 2
-    },
-    {
-        "code": 3010,
-        "name_en": "Consumer Staples Distribution & Retail",
-        "name_cn": "食品和主食零售",
-        "parent_code": 30,
-        "level_num": 2
-    },
-    {
-        "code": 3020,
-        "name_en": "Food, Beverage & Tobacco",
-        "name_cn": "食品、饮料和烟草",
-        "parent_code": 30,
-        "level_num": 2
-    },
-    {
-        "code": 3030,
-        "name_en": "Household & Personal Products",
-        "name_cn": "家庭和个人用品",
-        "parent_code": 30,
-        "level_num": 2
-    },
-    {
-        "code": 3510,
-        "name_en": "Health Care Equipment & Services",
-        "name_cn": "医疗保健设备与服务",
-        "parent_code": 35,
-        "level_num": 2
-    },
-    {
-        "code": 3520,
-        "name_en": "Pharmaceuticals, Biotechnology & Life Sciences",
-        "name_cn": "制药、生物技术和生命科学",
-        "parent_code": 35,
-        "level_num": 2
-    },
-    {
-        "code": 4010,
-        "name_en": "Banks",
-        "name_cn": "银行",
-        "parent_code": 40,
-        "level_num": 2
-    },
-    {
-        "code": 4020,
-        "name_en": "Financial Services",
-        "name_cn": "多元化金融",
-        "parent_code": 40,
-        "level_num": 2
-    },
-    {
-        "code": 4030,
-        "name_en": "Insurance",
-        "name_cn": "保险",
-        "parent_code": 40,
-        "level_num": 2
-    },
-    {
-        "code": 4510,
-        "name_en": "Software & Services",
-        "name_cn": "软件与服务",
-        "parent_code": 45,
-        "level_num": 2
-    },
-    {
-        "code": 4520,
-        "name_en": "Technology Hardware & Equipment",
-        "name_cn": "技术性硬件和设备",
-        "parent_code": 45,
-        "level_num": 2
-    },
-    {
-        "code": 4530,
-        "name_en": "Semiconductors & Semiconductor Equipment",
-        "name_cn": "半导体与半导体设备",
-        "parent_code": 45,
-        "level_num": 2
-    },
-    {
-        "code": 5010,
-        "name_en": "Telecommunication Services",
-        "name_cn": "通讯服务",
-        "parent_code": 50,
-        "level_num": 2
-    },
-    {
-        "code": 5020,
-        "name_en": "Media & Entertainment",
-        "name_cn": "媒体与娱乐",
-        "parent_code": 50,
-        "level_num": 2
-    },
-    {
-        "code": 5510,
-        "name_en": "Utilities",
-        "name_cn": "公共事业",
-        "parent_code": 55,
-        "level_num": 2
-    },
-    {
-        "code": 6010,
-        "name_en": "Equity Real Estate Investment Trusts (REITs)",
-        "name_cn": "房地产",
-        "parent_code": 60,
-        "level_num": 2
-    },
-    {
-        "code": 6020,
-        "name_en": "Real Estate Management & Development",
-        "name_cn": "房地产管理与开发",
-        "parent_code": 60,
-        "level_num": 2
-    },
-    {
-        "code": 101010,
-        "name_en": "Energy Equipment & Services",
-        "name_cn": "能源设备与服务",
-        "parent_code": 1010,
-        "level_num": 3
-    },
-    {
-        "code": 101020,
-        "name_en": "Oil, Gas & Consumable Fuels",
-        "name_cn": "石油、天然气和消费燃料",
-        "parent_code": 1010,
-        "level_num": 3
-    },
-    {
-        "code": 151010,
-        "name_en": "Chemicals",
-        "name_cn": "化学品",
-        "parent_code": 1510,
-        "level_num": 3
-    },
-    {
-        "code": 151020,
-        "name_en": "Construction Materials",
-        "name_cn": "建筑材料",
-        "parent_code": 1510,
-        "level_num": 3
-    },
-    {
-        "code": 151030,
-        "name_en": "Containers & Packaging",
-        "name_cn": "容器与包装",
-        "parent_code": 1510,
-        "level_num": 3
-    },
-    {
-        "code": 151040,
-        "name_en": "Metals & Mining",
-        "name_cn": "金属与矿业",
-        "parent_code": 1510,
-        "level_num": 3
-    },
-    {
-        "code": 151050,
-        "name_en": "Paper & Forest Products",
-        "name_cn": "造纸业和林业",
-        "parent_code": 1510,
-        "level_num": 3
-    },
-    {
-        "code": 201010,
-        "name_en": "Aerospace & Defense",
-        "name_cn": "航空航天与国防",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201020,
-        "name_en": "Building Products",
-        "name_cn": "建筑产品",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201030,
-        "name_en": "Construction & Engineering",
-        "name_cn": "建筑与工程",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201040,
-        "name_en": "Electrical Equipment",
-        "name_cn": "电气设备",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201050,
-        "name_en": "Industrial Conglomerates",
-        "name_cn": "工业集团",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201060,
-        "name_en": "Machinery",
-        "name_cn": "机械",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 201070,
-        "name_en": "Trading Companies & Distributors",
-        "name_cn": "贸易公司和分销商",
-        "parent_code": 2010,
-        "level_num": 3
-    },
-    {
-        "code": 202010,
-        "name_en": "Commercial Services & Supplies",
-        "name_cn": "商业服务与用品",
-        "parent_code": 2020,
-        "level_num": 3
-    },
-    {
-        "code": 202020,
-        "name_en": "Professional Services",
-        "name_cn": "专业服务",
-        "parent_code": 2020,
-        "level_num": 3
-    },
-    {
-        "code": 203010,
-        "name_en": "Air Freight & Logistics",
-        "name_cn": "航空货运与物流",
-        "parent_code": 2030,
-        "level_num": 3
-    },
-    {
-        "code": 203020,
-        "name_en": "Passenger Airlines",
-        "name_cn": "航空公司",
-        "parent_code": 2030,
-        "level_num": 3
-    },
-    {
-        "code": 203030,
-        "name_en": "Marine Transportation",
-        "name_cn": "海洋",
-        "parent_code": 2030,
-        "level_num": 3
-    },
-    {
-        "code": 203040,
-        "name_en": "Ground Transportation",
-        "name_cn": "公路与铁路",
-        "parent_code": 2030,
-        "level_num": 3
-    },
-    {
-        "code": 203050,
-        "name_en": "Transportation Infrastructure",
-        "name_cn": "交通基础设施",
-        "parent_code": 2030,
-        "level_num": 3
-    },
-    {
-        "code": 251010,
-        "name_en": "Automobile Components",
-        "name_cn": "汽车零部件",
-        "parent_code": 2510,
-        "level_num": 3
-    },
-    {
-        "code": 251020,
-        "name_en": "Automobiles",
-        "name_cn": "汽车",
-        "parent_code": 2510,
-        "level_num": 3
-    },
-    {
-        "code": 252010,
-        "name_en": "Household Durables",
-        "name_cn": "家庭耐用品",
-        "parent_code": 2520,
-        "level_num": 3
-    },
-    {
-        "code": 252020,
-        "name_en": "Leisure Products",
-        "name_cn": "休闲产品",
-        "parent_code": 2520,
-        "level_num": 3
-    },
-    {
-        "code": 252030,
-        "name_en": "Textiles, Apparel & Luxury Goods",
-        "name_cn": "纺织品、服装和奢侈品",
-        "parent_code": 2520,
-        "level_num": 3
-    },
-    {
-        "code": 253010,
-        "name_en": "Hotels, Restaurants & Leisure",
-        "name_cn": "酒店、餐厅与休闲",
-        "parent_code": 2530,
-        "level_num": 3
-    },
-    {
-        "code": 253020,
-        "name_en": "Diversified Consumer Services",
-        "name_cn": "多元化消费者服务",
-        "parent_code": 2530,
-        "level_num": 3
-    },
-    {
-        "code": 255010,
-        "name_en": "Distributors",
-        "name_cn": "分销商",
-        "parent_code": 2550,
-        "level_num": 3
-    },
-    {
-        "code": 255030,
-        "name_en": "Broadline Retail",
-        "name_cn": "多线零售",
-        "parent_code": 2550,
-        "level_num": 3
-    },
-    {
-        "code": 255040,
-        "name_en": "Specialty Retail",
-        "name_cn": "专业零售",
-        "parent_code": 2550,
-        "level_num": 3
-    },
-    {
-        "code": 301010,
-        "name_en": "Consumer Staples Distribution & Retail",
-        "name_cn": "食品和主食零售",
-        "parent_code": 3010,
-        "level_num": 3
-    },
-    {
-        "code": 302010,
-        "name_en": "Beverages",
-        "name_cn": "饮料",
-        "parent_code": 3020,
-        "level_num": 3
-    },
-    {
-        "code": 302020,
-        "name_en": "Food Products",
-        "name_cn": "食品",
-        "parent_code": 3020,
-        "level_num": 3
-    },
-    {
-        "code": 302030,
-        "name_en": "Tobacco",
-        "name_cn": "烟草",
-        "parent_code": 3020,
-        "level_num": 3
-    },
-    {
-        "code": 303010,
-        "name_en": "Household Products",
-        "name_cn": "家用产品",
-        "parent_code": 3030,
-        "level_num": 3
-    },
-    {
-        "code": 303020,
-        "name_en": "Personal Care Products",
-        "name_cn": "个人产品",
-        "parent_code": 3030,
-        "level_num": 3
-    },
-    {
-        "code": 351010,
-        "name_en": "Health Care Equipment & Supplies",
-        "name_cn": "保健设备及用品",
-        "parent_code": 3510,
-        "level_num": 3
-    },
-    {
-        "code": 351020,
-        "name_en": "Health Care Providers & Services",
-        "name_cn": "医疗保健提供者和服务",
-        "parent_code": 3510,
-        "level_num": 3
-    },
-    {
-        "code": 351030,
-        "name_en": "Health Care Technology",
-        "name_cn": "卫生保健技术",
-        "parent_code": 3510,
-        "level_num": 3
-    },
-    {
-        "code": 352010,
-        "name_en": "Biotechnology",
-        "name_cn": "生物技术",
-        "parent_code": 3520,
-        "level_num": 3
-    },
-    {
-        "code": 352020,
-        "name_en": "Pharmaceuticals",
-        "name_cn": "制药",
-        "parent_code": 3520,
-        "level_num": 3
-    },
-    {
-        "code": 352030,
-        "name_en": "Life Sciences Tools & Services",
-        "name_cn": "生命科学工具与服务",
-        "parent_code": 3520,
-        "level_num": 3
-    },
-    {
-        "code": 401010,
-        "name_en": "Banks",
-        "name_cn": "银行",
-        "parent_code": 4010,
-        "level_num": 3
-    },
-    {
-        "code": 402010,
-        "name_en": "Financial Services",
-        "name_cn": "多元化金融服务",
-        "parent_code": 4020,
-        "level_num": 3
-    },
-    {
-        "code": 402020,
-        "name_en": "Consumer Finance",
-        "name_cn": "消费者金融",
-        "parent_code": 4020,
-        "level_num": 3
-    },
-    {
-        "code": 402030,
-        "name_en": "Capital Markets",
-        "name_cn": "资本市场",
-        "parent_code": 4020,
-        "level_num": 3
-    },
-    {
-        "code": 402040,
-        "name_en": "Mortgage Real Estate Investment Trusts (REITs)",
-        "name_cn": "抵押房地产投资信托（REIT）",
-        "parent_code": 4020,
-        "level_num": 3
-    },
-    {
-        "code": 403010,
-        "name_en": "Insurance",
-        "name_cn": "保险",
-        "parent_code": 4030,
-        "level_num": 3
-    },
-    {
-        "code": 451020,
-        "name_en": "IT Services",
-        "name_cn": "资讯技术服务",
-        "parent_code": 4510,
-        "level_num": 3
-    },
-    {
-        "code": 451030,
-        "name_en": "Software",
-        "name_cn": "软件",
-        "parent_code": 4510,
-        "level_num": 3
-    },
-    {
-        "code": 452010,
-        "name_en": "Communications Equipment",
-        "name_cn": "通信设备",
-        "parent_code": 4520,
-        "level_num": 3
-    },
-    {
-        "code": 452020,
-        "name_en": "Technology Hardware, Storage & Peripherals",
-        "name_cn": "技术硬件、存储和外部设备",
-        "parent_code": 4520,
-        "level_num": 3
-    },
-    {
-        "code": 452030,
-        "name_en": "Electronic Equipment, Instruments & Components",
-        "name_cn": "电子设备、仪器及组件",
-        "parent_code": 4520,
-        "level_num": 3
-    },
-    {
-        "code": 453010,
-        "name_en": "Semiconductors & Semiconductor Equipment",
-        "name_cn": "半导体与半导体设备",
-        "parent_code": 4530,
-        "level_num": 3
-    },
-    {
-        "code": 501010,
-        "name_en": "Diversified Telecommunication Services",
-        "name_cn": "多元化电信服务",
-        "parent_code": 5010,
-        "level_num": 3
-    },
-    {
-        "code": 501020,
-        "name_en": "Wireless Telecommunication Services",
-        "name_cn": "无线电信服务",
-        "parent_code": 5010,
-        "level_num": 3
-    },
-    {
-        "code": 502010,
-        "name_en": "Media",
-        "name_cn": "媒体",
-        "parent_code": 5020,
-        "level_num": 3
-    },
-    {
-        "code": 502020,
-        "name_en": "Entertainment",
-        "name_cn": "娱乐",
-        "parent_code": 5020,
-        "level_num": 3
-    },
-    {
-        "code": 502030,
-        "name_en": "Interactive Media & Services",
-        "name_cn": "互动媒体与服务",
-        "parent_code": 5020,
-        "level_num": 3
-    },
-    {
-        "code": 551010,
-        "name_en": "Electric Utilities",
-        "name_cn": "电气事业",
-        "parent_code": 5510,
-        "level_num": 3
-    },
-    {
-        "code": 551020,
-        "name_en": "Gas Utilities",
-        "name_cn": "燃气事业",
-        "parent_code": 5510,
-        "level_num": 3
-    },
-    {
-        "code": 551030,
-        "name_en": "Multi-Utilities",
-        "name_cn": "复合公共事业",
-        "parent_code": 5510,
-        "level_num": 3
-    },
-    {
-        "code": 551040,
-        "name_en": "Water Utilities",
-        "name_cn": "供水事业",
-        "parent_code": 5510,
-        "level_num": 3
-    },
-    {
-        "code": 551050,
-        "name_en": "Independent Power and Renewable Electricity Producers",
-        "name_cn": "独立电力和可再生电力生产商",
-        "parent_code": 5510,
-        "level_num": 3
-    },
-    {
-        "code": 601010,
-        "name_en": "Diversified REITs",
-        "name_cn": "股票房地产投资信托（REIT）",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601025,
-        "name_en": "Industrial REITs",
-        "name_cn": "工业地产REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601030,
-        "name_en": "Hotel & Resort REITs",
-        "name_cn": "酒店及度假村REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601040,
-        "name_en": "Office REITs",
-        "name_cn": "办公楼/写字楼REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601050,
-        "name_en": "Health Care REITs",
-        "name_cn": "医疗保健地产REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601060,
-        "name_en": "Residential REITs",
-        "name_cn": "住宅地产REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601070,
-        "name_en": "Retail REITs",
-        "name_cn": "零售地产REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 601080,
-        "name_en": "Specialized REITs",
-        "name_cn": "专业地产REITs",
-        "parent_code": 6010,
-        "level_num": 3
-    },
-    {
-        "code": 602010,
-        "name_en": "Real Estate Management & Development",
-        "name_cn": "房地产开发与管理",
-        "parent_code": 6020,
-        "level_num": 3
-    },
-    {
-        "code": 10101010,
-        "name_en": "Oil & Gas Drilling",
-        "name_cn": "石油和天然气钻探",
-        "parent_code": 101010,
-        "level_num": 4
-    },
-    {
-        "code": 10101020,
-        "name_en": "Oil & Gas Equipment & Services",
-        "name_cn": "石油和天然气设备与服务",
-        "parent_code": 101010,
-        "level_num": 4
-    },
-    {
-        "code": 10102010,
-        "name_en": "Integrated Oil & Gas",
-        "name_cn": "油气一体化",
-        "parent_code": 101020,
-        "level_num": 4
-    },
-    {
-        "code": 10102020,
-        "name_en": "Oil & Gas Exploration & Production",
-        "name_cn": "油气勘探与生产",
-        "parent_code": 101020,
-        "level_num": 4
-    },
-    {
-        "code": 10102030,
-        "name_en": "Oil & Gas Refining & Marketing",
-        "name_cn": "石油和天然气精炼与销售",
-        "parent_code": 101020,
-        "level_num": 4
-    },
-    {
-        "code": 10102040,
-        "name_en": "Oil & Gas Storage & Transportation",
-        "name_cn": "油气储运",
-        "parent_code": 101020,
-        "level_num": 4
-    },
-    {
-        "code": 10102050,
-        "name_en": "Coal & Consumable Fuels",
-        "name_cn": "煤炭与消耗性燃料",
-        "parent_code": 101020,
-        "level_num": 4
-    },
-    {
-        "code": 15101010,
-        "name_en": "Commodity Chemicals",
-        "name_cn": "商品化学品",
-        "parent_code": 151010,
-        "level_num": 4
-    },
-    {
-        "code": 15101020,
-        "name_en": "Diversified Chemicals",
-        "name_cn": "多种化学品",
-        "parent_code": 151010,
-        "level_num": 4
-    },
-    {
-        "code": 15101030,
-        "name_en": "Fertilizers & Agricultural Chemicals",
-        "name_cn": "肥料和农用化学品",
-        "parent_code": 151010,
-        "level_num": 4
-    },
-    {
-        "code": 15101040,
-        "name_en": "Industrial Gases",
-        "name_cn": "工业用气体",
-        "parent_code": 151010,
-        "level_num": 4
-    },
-    {
-        "code": 15101050,
-        "name_en": "Specialty Chemicals",
-        "name_cn": "特种化学品",
-        "parent_code": 151010,
-        "level_num": 4
-    },
-    {
-        "code": 15102010,
-        "name_en": "Construction Materials",
-        "name_cn": "建筑材料",
-        "parent_code": 151020,
-        "level_num": 4
-    },
-    {
-        "code": 15103010,
-        "name_en": "Metal, Glass & Plastic Containers",
-        "name_cn": "金属和玻璃容器",
-        "parent_code": 151030,
-        "level_num": 4
-    },
-    {
-        "code": 15103020,
-        "name_en": "Paper & Plastic Packaging Products & Materials",
-        "name_cn": "纸包装",
-        "parent_code": 151030,
-        "level_num": 4
-    },
-    {
-        "code": 15104010,
-        "name_en": "Aluminum",
-        "name_cn": "铝",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104020,
-        "name_en": "Diversified Metals & Mining",
-        "name_cn": "多种金属与综合矿业",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104025,
-        "name_en": "Copper",
-        "name_cn": "铜",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104030,
-        "name_en": "Gold",
-        "name_cn": "金",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104040,
-        "name_en": "Precious Metals & Minerals",
-        "name_cn": "贵金属及其矿物",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104045,
-        "name_en": "Silver",
-        "name_cn": "银",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15104050,
-        "name_en": "Steel",
-        "name_cn": "钢",
-        "parent_code": 151040,
-        "level_num": 4
-    },
-    {
-        "code": 15105010,
-        "name_en": "Forest Products",
-        "name_cn": "林业产品",
-        "parent_code": 151050,
-        "level_num": 4
-    },
-    {
-        "code": 15105020,
-        "name_en": "Paper Products",
-        "name_cn": "造纸业",
-        "parent_code": 151050,
-        "level_num": 4
-    },
-    {
-        "code": 20101010,
-        "name_en": "Aerospace & Defense",
-        "name_cn": "航空航天与国防",
-        "parent_code": 201010,
-        "level_num": 4
-    },
-    {
-        "code": 20102010,
-        "name_en": "Building Products",
-        "name_cn": "建筑产品",
-        "parent_code": 201020,
-        "level_num": 4
-    },
-    {
-        "code": 20103010,
-        "name_en": "Construction & Engineering",
-        "name_cn": "建筑与工程",
-        "parent_code": 201030,
-        "level_num": 4
-    },
-    {
-        "code": 20104010,
-        "name_en": "Electrical Components & Equipment",
-        "name_cn": "电气元件和设备",
-        "parent_code": 201040,
-        "level_num": 4
-    },
-    {
-        "code": 20104020,
-        "name_en": "Heavy Electrical Equipment",
-        "name_cn": "重型电气设备",
-        "parent_code": 201040,
-        "level_num": 4
-    },
-    {
-        "code": 20105010,
-        "name_en": "Industrial Conglomerates",
-        "name_cn": "工业集团",
-        "parent_code": 201050,
-        "level_num": 4
-    },
-    {
-        "code": 20106010,
-        "name_en": "Construction Machinery & Heavy Transportation Equipment",
-        "name_cn": "建筑机械与重型卡车",
-        "parent_code": 201060,
-        "level_num": 4
-    },
-    {
-        "code": 20106015,
-        "name_en": "Agricultural & Farm Machinery",
-        "name_cn": "农用机械",
-        "parent_code": 201060,
-        "level_num": 4
-    },
-    {
-        "code": 20106020,
-        "name_en": "Industrial Machinery & Supplies & Components",
-        "name_cn": "工业机械",
-        "parent_code": 201060,
-        "level_num": 4
-    },
-    {
-        "code": 20107010,
-        "name_en": "Trading Companies & Distributors",
-        "name_cn": "贸易公司和分销商",
-        "parent_code": 201070,
-        "level_num": 4
-    },
-    {
-        "code": 20201010,
-        "name_en": "Commercial Printing",
-        "name_cn": "商业印刷",
-        "parent_code": 202010,
-        "level_num": 4
-    },
-    {
-        "code": 20201050,
-        "name_en": "Environmental & Facilities Services",
-        "name_cn": "环境与设施服务",
-        "parent_code": 202010,
-        "level_num": 4
-    },
-    {
-        "code": 20201060,
-        "name_en": "Office Services & Supplies",
-        "name_cn": "办公服务和用品",
-        "parent_code": 202010,
-        "level_num": 4
-    },
-    {
-        "code": 20201070,
-        "name_en": "Diversified Support Services",
-        "name_cn": "综合支持服务",
-        "parent_code": 202010,
-        "level_num": 4
-    },
-    {
-        "code": 20201080,
-        "name_en": "Security & Alarm Services",
-        "name_cn": "安全和警报服务",
-        "parent_code": 202010,
-        "level_num": 4
-    },
-    {
-        "code": 20202010,
-        "name_en": "Human Resource & Employment Services",
-        "name_cn": "人力资源与就业服务",
-        "parent_code": 202020,
-        "level_num": 4
-    },
-    {
-        "code": 20202020,
-        "name_en": "Research & Consulting Services",
-        "name_cn": "研究与咨询服务",
-        "parent_code": 202020,
-        "level_num": 4
-    },
-    {
-        "code": 20202030,
-        "name_en": "Data Processing & Outsourced Services",
-        "name_cn": "数据处理与外包服务",
-        "parent_code": 202020,
-        "level_num": 4
-    },
-    {
-        "code": 20301010,
-        "name_en": "Air Freight & Logistics",
-        "name_cn": "航空货运与物流",
-        "parent_code": 203010,
-        "level_num": 4
-    },
-    {
-        "code": 20302010,
-        "name_en": "Passenger Airlines",
-        "name_cn": "航空公司",
-        "parent_code": 203020,
-        "level_num": 4
-    },
-    {
-        "code": 20303010,
-        "name_en": "Marine Transportation",
-        "name_cn": "海洋",
-        "parent_code": 203030,
-        "level_num": 4
-    },
-    {
-        "code": 20304010,
-        "name_en": "Rail Transportation",
-        "name_cn": "铁路",
-        "parent_code": 203040,
-        "level_num": 4
-    },
-    {
-        "code": 20304030,
-        "name_en": "Cargo Ground Transportation",
-        "name_cn": "货物地面运输",
-        "parent_code": 203040,
-        "level_num": 4
-    },
-    {
-        "code": 20304040,
-        "name_en": "Passenger Ground Transportation",
-        "name_cn": "旅客地面运输",
-        "parent_code": 203040,
-        "level_num": 4
-    },
-    {
-        "code": 20305010,
-        "name_en": "Airport Services",
-        "name_cn": "机场服务",
-        "parent_code": 203050,
-        "level_num": 4
-    },
-    {
-        "code": 20305020,
-        "name_en": "Highways & Railtracks",
-        "name_cn": "公路和铁路",
-        "parent_code": 203050,
-        "level_num": 4
-    },
-    {
-        "code": 20305030,
-        "name_en": "Marine Ports & Services",
-        "name_cn": "海洋港口与服务",
-        "parent_code": 203050,
-        "level_num": 4
-    },
-    {
-        "code": 25101010,
-        "name_en": "Automotive Parts & Equipment",
-        "name_cn": "汽车零部件和设备",
-        "parent_code": 251010,
-        "level_num": 4
-    },
-    {
-        "code": 25101020,
-        "name_en": "Tires & Rubber",
-        "name_cn": "轮胎和橡胶",
-        "parent_code": 251010,
-        "level_num": 4
-    },
-    {
-        "code": 25102010,
-        "name_en": "Automobile Manufacturers",
-        "name_cn": "汽车制造商",
-        "parent_code": 251020,
-        "level_num": 4
-    },
-    {
-        "code": 25102020,
-        "name_en": "Motorcycle Manufacturers",
-        "name_cn": "摩托车制造商",
-        "parent_code": 251020,
-        "level_num": 4
-    },
-    {
-        "code": 25201010,
-        "name_en": "Consumer Electronics",
-        "name_cn": "消费电子",
-        "parent_code": 252010,
-        "level_num": 4
-    },
-    {
-        "code": 25201020,
-        "name_en": "Home Furnishings",
-        "name_cn": "家居摆设",
-        "parent_code": 252010,
-        "level_num": 4
-    },
-    {
-        "code": 25201030,
-        "name_en": "Homebuilding",
-        "name_cn": "房屋建筑",
-        "parent_code": 252010,
-        "level_num": 4
-    },
-    {
-        "code": 25201040,
-        "name_en": "Household Appliances",
-        "name_cn": "家用电器",
-        "parent_code": 252010,
-        "level_num": 4
-    },
-    {
-        "code": 25201050,
-        "name_en": "Housewares & Specialties",
-        "name_cn": "家庭用品和特色",
-        "parent_code": 252010,
-        "level_num": 4
-    },
-    {
-        "code": 25202010,
-        "name_en": "Leisure Products",
-        "name_cn": "休闲产品",
-        "parent_code": 252020,
-        "level_num": 4
-    },
-    {
-        "code": 25203010,
-        "name_en": "Apparel, Accessories & Luxury Goods",
-        "name_cn": "服装、配饰和奢侈品",
-        "parent_code": 252030,
-        "level_num": 4
-    },
-    {
-        "code": 25203020,
-        "name_en": "Footwear",
-        "name_cn": "鞋类",
-        "parent_code": 252030,
-        "level_num": 4
-    },
-    {
-        "code": 25203030,
-        "name_en": "Textiles",
-        "name_cn": "纺织品",
-        "parent_code": 252030,
-        "level_num": 4
-    },
-    {
-        "code": 25301010,
-        "name_en": "Casinos & Gaming",
-        "name_cn": "赌场与游戏",
-        "parent_code": 253010,
-        "level_num": 4
-    },
-    {
-        "code": 25301020,
-        "name_en": "Hotels, Resorts & Cruise Lines",
-        "name_cn": "酒店、度假村与邮轮公司",
-        "parent_code": 253010,
-        "level_num": 4
-    },
-    {
-        "code": 25301030,
-        "name_en": "Leisure Facilities",
-        "name_cn": "休闲设施",
-        "parent_code": 253010,
-        "level_num": 4
-    },
-    {
-        "code": 25301040,
-        "name_en": "Restaurants",
-        "name_cn": "餐厅",
-        "parent_code": 253010,
-        "level_num": 4
-    },
-    {
-        "code": 25302010,
-        "name_en": "Education Services",
-        "name_cn": "教育服务",
-        "parent_code": 253020,
-        "level_num": 4
-    },
-    {
-        "code": 25302020,
-        "name_en": "Specialized Consumer Services",
-        "name_cn": "专业消费者服务",
-        "parent_code": 253020,
-        "level_num": 4
-    },
-    {
-        "code": 25501010,
-        "name_en": "Distributors",
-        "name_cn": "分销商",
-        "parent_code": 255010,
-        "level_num": 4
-    },
-    {
-        "code": 25503030,
-        "name_en": "Broadline Retail",
-        "name_cn": "综合零售",
-        "parent_code": 255030,
-        "level_num": 4
-    },
-    {
-        "code": 25504010,
-        "name_en": "Apparel Retail",
-        "name_cn": "服装零售",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 25504020,
-        "name_en": "Computer & Electronics Retail",
-        "name_cn": "电脑和电子产品零售",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 25504030,
-        "name_en": "Home Improvement Retail",
-        "name_cn": "家居装饰零售",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 25504040,
-        "name_en": "Other Specialty Retail",
-        "name_cn": "专卖店",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 25504050,
-        "name_en": "Automotive Retail",
-        "name_cn": "汽车零售",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 25504060,
-        "name_en": "Homefurnishing Retail",
-        "name_cn": "家居零售",
-        "parent_code": 255040,
-        "level_num": 4
-    },
-    {
-        "code": 30101010,
-        "name_en": "Drug Retail",
-        "name_cn": "药品零售",
-        "parent_code": 301010,
-        "level_num": 4
-    },
-    {
-        "code": 30101020,
-        "name_en": "Food Distributors",
-        "name_cn": "食品分销商",
-        "parent_code": 301010,
-        "level_num": 4
-    },
-    {
-        "code": 30101030,
-        "name_en": "Food Retail",
-        "name_cn": "食品零售",
-        "parent_code": 301010,
-        "level_num": 4
-    },
-    {
-        "code": 30101040,
-        "name_en": "Consumer Staples Merchandise Retail",
-        "name_cn": "大型超市和超级购物中心",
-        "parent_code": 301010,
-        "level_num": 4
-    },
-    {
-        "code": 30201010,
-        "name_en": "Brewers",
-        "name_cn": "啤酒厂",
-        "parent_code": 302010,
-        "level_num": 4
-    },
-    {
-        "code": 30201020,
-        "name_en": "Distillers & Vintners",
-        "name_cn": "蒸馏酒厂和葡萄酒厂",
-        "parent_code": 302010,
-        "level_num": 4
-    },
-    {
-        "code": 30201030,
-        "name_en": "Soft Drinks & Non-alcoholic Beverages",
-        "name_cn": "软饮料",
-        "parent_code": 302010,
-        "level_num": 4
-    },
-    {
-        "code": 30202010,
-        "name_en": "Agricultural Products & Services",
-        "name_cn": "农产品",
-        "parent_code": 302020,
-        "level_num": 4
-    },
-    {
-        "code": 30202030,
-        "name_en": "Packaged Foods & Meats",
-        "name_cn": "包装食品和肉类",
-        "parent_code": 302020,
-        "level_num": 4
-    },
-    {
-        "code": 30203010,
-        "name_en": "Tobacco",
-        "name_cn": "烟草",
-        "parent_code": 302030,
-        "level_num": 4
-    },
-    {
-        "code": 30301010,
-        "name_en": "Household Products",
-        "name_cn": "家居用品",
-        "parent_code": 303010,
-        "level_num": 4
-    },
-    {
-        "code": 30302010,
-        "name_en": "Personal Care Products",
-        "name_cn": "个人产品",
-        "parent_code": 303020,
-        "level_num": 4
-    },
-    {
-        "code": 35101010,
-        "name_en": "Health Care Equipment",
-        "name_cn": "保健设备",
-        "parent_code": 351010,
-        "level_num": 4
-    },
-    {
-        "code": 35101020,
-        "name_en": "Health Care Supplies",
-        "name_cn": "卫生保健用品",
-        "parent_code": 351010,
-        "level_num": 4
-    },
-    {
-        "code": 35102010,
-        "name_en": "Health Care Distributors",
-        "name_cn": "医疗保健分销商",
-        "parent_code": 351020,
-        "level_num": 4
-    },
-    {
-        "code": 35102015,
-        "name_en": "Health Care Services",
-        "name_cn": "卫生保健服务",
-        "parent_code": 351020,
-        "level_num": 4
-    },
-    {
-        "code": 35102020,
-        "name_en": "Health Care Facilities",
-        "name_cn": "卫生保健设施",
-        "parent_code": 351020,
-        "level_num": 4
-    },
-    {
-        "code": 35102030,
-        "name_en": "Managed Health Care",
-        "name_cn": "管理式医疗保健",
-        "parent_code": 351020,
-        "level_num": 4
-    },
-    {
-        "code": 35103010,
-        "name_en": "Health Care Technology",
-        "name_cn": "卫生保健技术",
-        "parent_code": 351030,
-        "level_num": 4
-    },
-    {
-        "code": 35201010,
-        "name_en": "Biotechnology",
-        "name_cn": "生物技术",
-        "parent_code": 352010,
-        "level_num": 4
-    },
-    {
-        "code": 35202010,
-        "name_en": "Pharmaceuticals",
-        "name_cn": "制药",
-        "parent_code": 352020,
-        "level_num": 4
-    },
-    {
-        "code": 35203010,
-        "name_en": "Life Sciences Tools & Services",
-        "name_cn": "生命科学工具与服务",
-        "parent_code": 352030,
-        "level_num": 4
-    },
-    {
-        "code": 40101010,
-        "name_en": "Diversified Banks",
-        "name_cn": "多元化银行",
-        "parent_code": 401010,
-        "level_num": 4
-    },
-    {
-        "code": 40101015,
-        "name_en": "Regional Banks",
-        "name_cn": "区域银行",
-        "parent_code": 401010,
-        "level_num": 4
-    },
-    {
-        "code": 40201020,
-        "name_en": "Diversified Financial Services",
-        "name_cn": "其他多元化金融服务",
-        "parent_code": 402010,
-        "level_num": 4
-    },
-    {
-        "code": 40201030,
-        "name_en": "Multi-Sector Holdings",
-        "name_cn": "多领域控股",
-        "parent_code": 402010,
-        "level_num": 4
-    },
-    {
-        "code": 40201040,
-        "name_en": "Specialized Finance",
-        "name_cn": "专业金融",
-        "parent_code": 402010,
-        "level_num": 4
-    },
-    {
-        "code": 40201050,
-        "name_en": "Commercial & Residential Mortgage Finance",
-        "name_cn": "商业与住宅抵押贷款融资",
-        "parent_code": 402010,
-        "level_num": 4
-    },
-    {
-        "code": 40201060,
-        "name_en": "Transaction & Payment Processing Services",
-        "name_cn": "交易与支付处理服务",
-        "parent_code": 402010,
-        "level_num": 4
-    },
-    {
-        "code": 40202010,
-        "name_en": "Consumer Finance",
-        "name_cn": "消费者金融",
-        "parent_code": 402020,
-        "level_num": 4
-    },
-    {
-        "code": 40203010,
-        "name_en": "Asset Management & Custody Banks",
-        "name_cn": "资产管理与托管银行",
-        "parent_code": 402030,
-        "level_num": 4
-    },
-    {
-        "code": 40203020,
-        "name_en": "Investment Banking & Brokerage",
-        "name_cn": "投资银行与经纪",
-        "parent_code": 402030,
-        "level_num": 4
-    },
-    {
-        "code": 40203030,
-        "name_en": "Diversified Capital Markets",
-        "name_cn": "多元化的资本市场",
-        "parent_code": 402030,
-        "level_num": 4
-    },
-    {
-        "code": 40203040,
-        "name_en": "Financial Exchanges & Data",
-        "name_cn": "财务交易与数据",
-        "parent_code": 402030,
-        "level_num": 4
-    },
-    {
-        "code": 40204010,
-        "name_en": "Mortgage REITs",
-        "name_cn": "抵押房地产投资信托",
-        "parent_code": 402040,
-        "level_num": 4
-    },
-    {
-        "code": 40301010,
-        "name_en": "Insurance Brokers",
-        "name_cn": "保险经纪人",
-        "parent_code": 403010,
-        "level_num": 4
-    },
-    {
-        "code": 40301020,
-        "name_en": "Life & Health Insurance",
-        "name_cn": "人寿与健康保险",
-        "parent_code": 403010,
-        "level_num": 4
-    },
-    {
-        "code": 40301030,
-        "name_en": "Multi-line Insurance",
-        "name_cn": "多线保险",
-        "parent_code": 403010,
-        "level_num": 4
-    },
-    {
-        "code": 40301040,
-        "name_en": "Property & Casualty Insurance",
-        "name_cn": "财产保险",
-        "parent_code": 403010,
-        "level_num": 4
-    },
-    {
-        "code": 40301050,
-        "name_en": "Reinsurance",
-        "name_cn": "再保险",
-        "parent_code": 403010,
-        "level_num": 4
-    },
-    {
-        "code": 45102010,
-        "name_en": "IT Consulting & Other Services",
-        "name_cn": "资讯技术咨询和其他服务",
-        "parent_code": 451020,
-        "level_num": 4
-    },
-    {
-        "code": 45102030,
-        "name_en": "Internet Services & Infrastructure",
-        "name_cn": "互联网服务与基础设施",
-        "parent_code": 451020,
-        "level_num": 4
-    },
-    {
-        "code": 45103010,
-        "name_en": "Application Software",
-        "name_cn": "应用软件",
-        "parent_code": 451030,
-        "level_num": 4
-    },
-    {
-        "code": 45103020,
-        "name_en": "Systems Software",
-        "name_cn": "系统软件",
-        "parent_code": 451030,
-        "level_num": 4
-    },
-    {
-        "code": 45201020,
-        "name_en": "Communications Equipment",
-        "name_cn": "通信设备",
-        "parent_code": 452010,
-        "level_num": 4
-    },
-    {
-        "code": 45202030,
-        "name_en": "Technology Hardware, Storage & Peripherals",
-        "name_cn": "技术硬件、存储和外部设备",
-        "parent_code": 452020,
-        "level_num": 4
-    },
-    {
-        "code": 45203010,
-        "name_en": "Electronic Equipment & Instruments",
-        "name_cn": "电子设备及仪器",
-        "parent_code": 452030,
-        "level_num": 4
-    },
-    {
-        "code": 45203015,
-        "name_en": "Electronic Components",
-        "name_cn": "电子元器件",
-        "parent_code": 452030,
-        "level_num": 4
-    },
-    {
-        "code": 45203020,
-        "name_en": "Electronic Manufacturing Services",
-        "name_cn": "电子制造服务",
-        "parent_code": 452030,
-        "level_num": 4
-    },
-    {
-        "code": 45203030,
-        "name_en": "Technology Distributors",
-        "name_cn": "技术分销商",
-        "parent_code": 452030,
-        "level_num": 4
-    },
-    {
-        "code": 45301010,
-        "name_en": "Semiconductor Materials & Equipment",
-        "name_cn": "半导体设备",
-        "parent_code": 453010,
-        "level_num": 4
-    },
-    {
-        "code": 45301020,
-        "name_en": "Semiconductors",
-        "name_cn": "半导体",
-        "parent_code": 453010,
-        "level_num": 4
-    },
-    {
-        "code": 50101010,
-        "name_en": "Alternative Carriers",
-        "name_cn": "替代性电信运营商",
-        "parent_code": 501010,
-        "level_num": 4
-    },
-    {
-        "code": 50101020,
-        "name_en": "Integrated Telecommunication Services",
-        "name_cn": "综合电信服务",
-        "parent_code": 501010,
-        "level_num": 4
-    },
-    {
-        "code": 50102010,
-        "name_en": "Wireless Telecommunication Services",
-        "name_cn": "无线电信服务",
-        "parent_code": 501020,
-        "level_num": 4
-    },
-    {
-        "code": 50201010,
-        "name_en": "Advertising",
-        "name_cn": "广告",
-        "parent_code": 502010,
-        "level_num": 4
-    },
-    {
-        "code": 50201020,
-        "name_en": "Broadcasting",
-        "name_cn": "广播",
-        "parent_code": 502010,
-        "level_num": 4
-    },
-    {
-        "code": 50201030,
-        "name_en": "Cable & Satellite",
-        "name_cn": "有线和卫星",
-        "parent_code": 502010,
-        "level_num": 4
-    },
-    {
-        "code": 50201040,
-        "name_en": "Publishing",
-        "name_cn": "出版",
-        "parent_code": 502010,
-        "level_num": 4
-    },
-    {
-        "code": 50202010,
-        "name_en": "Movies & Entertainment",
-        "name_cn": "影视娱乐",
-        "parent_code": 502020,
-        "level_num": 4
-    },
-    {
-        "code": 50202020,
-        "name_en": "Interactive Home Entertainment",
-        "name_cn": "互动家庭娱乐",
-        "parent_code": 502020,
-        "level_num": 4
-    },
-    {
-        "code": 50203010,
-        "name_en": "Interactive Media & Services",
-        "name_cn": "互动媒体与服务",
-        "parent_code": 502030,
-        "level_num": 4
-    },
-    {
-        "code": 55101010,
-        "name_en": "Electric Utilities",
-        "name_cn": "电气事业",
-        "parent_code": 551010,
-        "level_num": 4
-    },
-    {
-        "code": 55102010,
-        "name_en": "Gas Utilities",
-        "name_cn": "燃气事业",
-        "parent_code": 551020,
-        "level_num": 4
-    },
-    {
-        "code": 55103010,
-        "name_en": "Multi-Utilities",
-        "name_cn": "复合公共事业",
-        "parent_code": 551030,
-        "level_num": 4
-    },
-    {
-        "code": 55104010,
-        "name_en": "Water Utilities",
-        "name_cn": "供水事业",
-        "parent_code": 551040,
-        "level_num": 4
-    },
-    {
-        "code": 55105010,
-        "name_en": "Independent Power Producers & Energy Traders",
-        "name_cn": "独立电力生产商和能源贸易商",
-        "parent_code": 551050,
-        "level_num": 4
-    },
-    {
-        "code": 55105020,
-        "name_en": "Renewable Electricity",
-        "name_cn": "可再生电力",
-        "parent_code": 551050,
-        "level_num": 4
-    },
-    {
-        "code": 60101010,
-        "name_en": "Diversified REITs",
-        "name_cn": "多元化房地产投资信托",
-        "parent_code": 601010,
-        "level_num": 4
-    },
-    {
-        "code": 60102510,
-        "name_en": "Industrial REITs",
-        "name_cn": "工业地产REITs",
-        "parent_code": 601025,
-        "level_num": 4
-    },
-    {
-        "code": 60103010,
-        "name_en": "Hotel & Resort REITs",
-        "name_cn": "酒店及度假村REITs",
-        "parent_code": 601030,
-        "level_num": 4
-    },
-    {
-        "code": 60104010,
-        "name_en": "Office REITs",
-        "name_cn": "办公楼REITs",
-        "parent_code": 601040,
-        "level_num": 4
-    },
-    {
-        "code": 60105010,
-        "name_en": "Health Care REITs",
-        "name_cn": "医疗保健地产REITs",
-        "parent_code": 601050,
-        "level_num": 4
-    },
-    {
-        "code": 60106010,
-        "name_en": "Multi-Family Residential REITs",
-        "name_cn": "多户住宅REITs",
-        "parent_code": 601060,
-        "level_num": 4
-    },
-    {
-        "code": 60106020,
-        "name_en": "Single-Family Residential REITs",
-        "name_cn": "独户住宅REITs",
-        "parent_code": 601060,
-        "level_num": 4
-    },
-    {
-        "code": 60107010,
-        "name_en": "Retail REITs",
-        "name_cn": "零售地产REITs",
-        "parent_code": 601070,
-        "level_num": 4
-    },
-    {
-        "code": 60108010,
-        "name_en": "Other Specialized REITs",
-        "name_cn": "其他专业地产REITs",
-        "parent_code": 601080,
-        "level_num": 4
-    },
-    {
-        "code": 60108020,
-        "name_en": "Self-Storage REITs",
-        "name_cn": "自助仓储REITs",
-        "parent_code": 601080,
-        "level_num": 4
-    },
-    {
-        "code": 60108030,
-        "name_en": "Telecom Tower REITs",
-        "name_cn": "电信塔REITs",
-        "parent_code": 601080,
-        "level_num": 4
-    },
-    {
-        "code": 60108040,
-        "name_en": "Timber REITs",
-        "name_cn": "木材地产REITs",
-        "parent_code": 601080,
-        "level_num": 4
-    },
-    {
-        "code": 60108050,
-        "name_en": "Data Center REITs",
-        "name_cn": "数据中心REITs",
-        "parent_code": 601080,
-        "level_num": 4
-    },
-    {
-        "code": 60201010,
-        "name_en": "Diversified Real Estate Activities",
-        "name_cn": "多元化房地产活动",
-        "parent_code": 602010,
-        "level_num": 4
-    },
-    {
-        "code": 60201020,
-        "name_en": "Real Estate Operating Companies",
-        "name_cn": "房地产运营公司",
-        "parent_code": 602010,
-        "level_num": 4
-    },
-    {
-        "code": 60201030,
-        "name_en": "Real Estate Development",
-        "name_cn": "房地产开发",
-        "parent_code": 602010,
-        "level_num": 4
-    },
-    {
-        "code": 60201040,
-        "name_en": "Real Estate Services",
-        "name_cn": "房地产服务",
-        "parent_code": 602010,
-        "level_num": 4
-    }
+  {
+    "code": 10,
+    "name_cn": "能源",
+    "name_en": "Energy",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 15,
+    "name_cn": "材料",
+    "name_en": "Materials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 20,
+    "name_cn": "工业",
+    "name_en": "Industrials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 25,
+    "name_cn": "非必需消费品",
+    "name_en": "Consumer Discretionary",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 30,
+    "name_cn": "必需品",
+    "name_en": "Consumer Staples",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 35,
+    "name_cn": "卫生保健",
+    "name_en": "Health Care",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 40,
+    "name_cn": "金融",
+    "name_en": "Financials",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 45,
+    "name_cn": "资讯技术",
+    "name_en": "Information Technology",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 50,
+    "name_cn": "通讯服务",
+    "name_en": "Communication Services",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 55,
+    "name_cn": "公共事业",
+    "name_en": "Utilities",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 60,
+    "name_cn": "房地产",
+    "name_en": "Real Estate",
+    "parent_code": "",
+    "level_num": 1
+  },
+  {
+    "code": 1010,
+    "name_cn": "能源",
+    "name_en": "Energy",
+    "parent_code": 10,
+    "level_num": 2
+  },
+  {
+    "code": 1510,
+    "name_cn": "材料",
+    "name_en": "Materials",
+    "parent_code": 15,
+    "level_num": 2
+  },
+  {
+    "code": 2010,
+    "name_cn": "资本品",
+    "name_en": "Capital Goods",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2020,
+    "name_cn": "商业和专业服务",
+    "name_en": "Commercial & Professional Services",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2030,
+    "name_cn": "运输",
+    "name_en": "Transportation",
+    "parent_code": 20,
+    "level_num": 2
+  },
+  {
+    "code": 2510,
+    "name_cn": "汽车及零部件",
+    "name_en": "Automobiles & Components",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2520,
+    "name_cn": "耐用消费品和服装",
+    "name_en": "Consumer Durables & Apparel",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2530,
+    "name_cn": "消费者服务",
+    "name_en": "Consumer Services",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 2550,
+    "name_cn": "零售",
+    "name_en": "Consumer Discretionary Distribution & Retail",
+    "parent_code": 25,
+    "level_num": 2
+  },
+  {
+    "code": 3010,
+    "name_cn": "食品和主食零售",
+    "name_en": "Consumer Staples Distribution & Retail",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3020,
+    "name_cn": "食品、饮料和烟草",
+    "name_en": "Food, Beverage & Tobacco",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3030,
+    "name_cn": "家庭和个人用品",
+    "name_en": "Household & Personal Products",
+    "parent_code": 30,
+    "level_num": 2
+  },
+  {
+    "code": 3510,
+    "name_cn": "医疗保健设备与服务",
+    "name_en": "Health Care Equipment & Services",
+    "parent_code": 35,
+    "level_num": 2
+  },
+  {
+    "code": 3520,
+    "name_cn": "制药、生物技术和生命科学",
+    "name_en": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "parent_code": 35,
+    "level_num": 2
+  },
+  {
+    "code": 4010,
+    "name_cn": "银行",
+    "name_en": "Banks",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4020,
+    "name_cn": "多元化金融",
+    "name_en": "Financial Services",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4030,
+    "name_cn": "保险",
+    "name_en": "Insurance",
+    "parent_code": 40,
+    "level_num": 2
+  },
+  {
+    "code": 4510,
+    "name_cn": "软件与服务",
+    "name_en": "Software & Services",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 4520,
+    "name_cn": "技术性硬件和设备",
+    "name_en": "Technology Hardware & Equipment",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 4530,
+    "name_cn": "半导体与半导体设备",
+    "name_en": "Semiconductors & Semiconductor Equipment",
+    "parent_code": 45,
+    "level_num": 2
+  },
+  {
+    "code": 5010,
+    "name_cn": "通讯服务",
+    "name_en": "Telecommunication Services",
+    "parent_code": 50,
+    "level_num": 2
+  },
+  {
+    "code": 5020,
+    "name_cn": "媒体与娱乐",
+    "name_en": "Media & Entertainment",
+    "parent_code": 50,
+    "level_num": 2
+  },
+  {
+    "code": 5510,
+    "name_cn": "公共事业",
+    "name_en": "Utilities",
+    "parent_code": 55,
+    "level_num": 2
+  },
+  {
+    "code": 6010,
+    "name_cn": "房地产",
+    "name_en": "Equity Real Estate Investment Trusts (REITs)",
+    "parent_code": 60,
+    "level_num": 2
+  },
+  {
+    "code": 6020,
+    "name_cn": "房地产管理与开发",
+    "name_en": "Real Estate Management & Development",
+    "parent_code": 60,
+    "level_num": 2
+  },
+  {
+    "code": 101010,
+    "name_cn": "能源设备与服务",
+    "name_en": "Energy Equipment & Services",
+    "parent_code": 1010,
+    "level_num": 3
+  },
+  {
+    "code": 101020,
+    "name_cn": "石油、天然气和消费燃料",
+    "name_en": "Oil, Gas & Consumable Fuels",
+    "parent_code": 1010,
+    "level_num": 3
+  },
+  {
+    "code": 151010,
+    "name_cn": "化学品",
+    "name_en": "Chemicals",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151020,
+    "name_cn": "建筑材料",
+    "name_en": "Construction Materials",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151030,
+    "name_cn": "容器与包装",
+    "name_en": "Containers & Packaging",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151040,
+    "name_cn": "金属与矿业",
+    "name_en": "Metals & Mining",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 151050,
+    "name_cn": "造纸业和林业",
+    "name_en": "Paper & Forest Products",
+    "parent_code": 1510,
+    "level_num": 3
+  },
+  {
+    "code": 201010,
+    "name_cn": "航空航天与国防",
+    "name_en": "Aerospace & Defense",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201020,
+    "name_cn": "建筑产品",
+    "name_en": "Building Products",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201030,
+    "name_cn": "建筑与工程",
+    "name_en": "Construction & Engineering",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201040,
+    "name_cn": "电气设备",
+    "name_en": "Electrical Equipment",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201050,
+    "name_cn": "工业集团",
+    "name_en": "Industrial Conglomerates",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201060,
+    "name_cn": "机械",
+    "name_en": "Machinery",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 201070,
+    "name_cn": "贸易公司和分销商",
+    "name_en": "Trading Companies & Distributors",
+    "parent_code": 2010,
+    "level_num": 3
+  },
+  {
+    "code": 202010,
+    "name_cn": "商业服务与用品",
+    "name_en": "Commercial Services & Supplies",
+    "parent_code": 2020,
+    "level_num": 3
+  },
+  {
+    "code": 202020,
+    "name_cn": "专业服务",
+    "name_en": "Professional Services",
+    "parent_code": 2020,
+    "level_num": 3
+  },
+  {
+    "code": 203010,
+    "name_cn": "航空货运与物流",
+    "name_en": "Air Freight & Logistics",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203020,
+    "name_cn": "航空公司",
+    "name_en": "Passenger Airlines",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203030,
+    "name_cn": "海洋",
+    "name_en": "Marine Transportation",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203040,
+    "name_cn": "公路与铁路",
+    "name_en": "Ground Transportation",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 203050,
+    "name_cn": "交通基础设施",
+    "name_en": "Transportation Infrastructure",
+    "parent_code": 2030,
+    "level_num": 3
+  },
+  {
+    "code": 251010,
+    "name_cn": "汽车零部件",
+    "name_en": "Automobile Components",
+    "parent_code": 2510,
+    "level_num": 3
+  },
+  {
+    "code": 251020,
+    "name_cn": "汽车",
+    "name_en": "Automobiles",
+    "parent_code": 2510,
+    "level_num": 3
+  },
+  {
+    "code": 252010,
+    "name_cn": "家庭耐用品",
+    "name_en": "Household Durables",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 252020,
+    "name_cn": "休闲产品",
+    "name_en": "Leisure Products",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 252030,
+    "name_cn": "纺织品、服装和奢侈品",
+    "name_en": "Textiles, Apparel & Luxury Goods",
+    "parent_code": 2520,
+    "level_num": 3
+  },
+  {
+    "code": 253010,
+    "name_cn": "酒店、餐厅与休闲",
+    "name_en": "Hotels, Restaurants & Leisure",
+    "parent_code": 2530,
+    "level_num": 3
+  },
+  {
+    "code": 253020,
+    "name_cn": "多元化消费者服务",
+    "name_en": "Diversified Consumer Services",
+    "parent_code": 2530,
+    "level_num": 3
+  },
+  {
+    "code": 255010,
+    "name_cn": "分销商",
+    "name_en": "Distributors",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 255030,
+    "name_cn": "多线零售",
+    "name_en": "Broadline Retail",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 255040,
+    "name_cn": "专业零售",
+    "name_en": "Specialty Retail",
+    "parent_code": 2550,
+    "level_num": 3
+  },
+  {
+    "code": 301010,
+    "name_cn": "食品和主食零售",
+    "name_en": "Consumer Staples Distribution & Retail",
+    "parent_code": 3010,
+    "level_num": 3
+  },
+  {
+    "code": 302010,
+    "name_cn": "饮料",
+    "name_en": "Beverages",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 302020,
+    "name_cn": "食品",
+    "name_en": "Food Products",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 302030,
+    "name_cn": "烟草",
+    "name_en": "Tobacco",
+    "parent_code": 3020,
+    "level_num": 3
+  },
+  {
+    "code": 303010,
+    "name_cn": "家用产品",
+    "name_en": "Household Products",
+    "parent_code": 3030,
+    "level_num": 3
+  },
+  {
+    "code": 303020,
+    "name_cn": "个人产品",
+    "name_en": "Personal Care Products",
+    "parent_code": 3030,
+    "level_num": 3
+  },
+  {
+    "code": 351010,
+    "name_cn": "保健设备及用品",
+    "name_en": "Health Care Equipment & Supplies",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 351020,
+    "name_cn": "医疗保健提供者和服务",
+    "name_en": "Health Care Providers & Services",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 351030,
+    "name_cn": "卫生保健技术",
+    "name_en": "Health Care Technology",
+    "parent_code": 3510,
+    "level_num": 3
+  },
+  {
+    "code": 352010,
+    "name_cn": "生物技术",
+    "name_en": "Biotechnology",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 352020,
+    "name_cn": "制药",
+    "name_en": "Pharmaceuticals",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 352030,
+    "name_cn": "生命科学工具与服务",
+    "name_en": "Life Sciences Tools & Services",
+    "parent_code": 3520,
+    "level_num": 3
+  },
+  {
+    "code": 401010,
+    "name_cn": "银行",
+    "name_en": "Banks",
+    "parent_code": 4010,
+    "level_num": 3
+  },
+  {
+    "code": 402010,
+    "name_cn": "多元化金融服务",
+    "name_en": "Financial Services",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402020,
+    "name_cn": "消费者金融",
+    "name_en": "Consumer Finance",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402030,
+    "name_cn": "资本市场",
+    "name_en": "Capital Markets",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 402040,
+    "name_cn": "抵押房地产投资信托（REIT）",
+    "name_en": "Mortgage Real Estate Investment Trusts (REITs)",
+    "parent_code": 4020,
+    "level_num": 3
+  },
+  {
+    "code": 403010,
+    "name_cn": "保险",
+    "name_en": "Insurance",
+    "parent_code": 4030,
+    "level_num": 3
+  },
+  {
+    "code": 451020,
+    "name_cn": "资讯技术服务",
+    "name_en": "IT Services",
+    "parent_code": 4510,
+    "level_num": 3
+  },
+  {
+    "code": 451030,
+    "name_cn": "软件",
+    "name_en": "Software",
+    "parent_code": 4510,
+    "level_num": 3
+  },
+  {
+    "code": 452010,
+    "name_cn": "通信设备",
+    "name_en": "Communications Equipment",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 452020,
+    "name_cn": "技术硬件、存储和外部设备",
+    "name_en": "Technology Hardware, Storage & Peripherals",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 452030,
+    "name_cn": "电子设备、仪器及组件",
+    "name_en": "Electronic Equipment, Instruments & Components",
+    "parent_code": 4520,
+    "level_num": 3
+  },
+  {
+    "code": 453010,
+    "name_cn": "半导体与半导体设备",
+    "name_en": "Semiconductors & Semiconductor Equipment",
+    "parent_code": 4530,
+    "level_num": 3
+  },
+  {
+    "code": 501010,
+    "name_cn": "多元化电信服务",
+    "name_en": "Diversified Telecommunication Services",
+    "parent_code": 5010,
+    "level_num": 3
+  },
+  {
+    "code": 501020,
+    "name_cn": "无线电信服务",
+    "name_en": "Wireless Telecommunication Services",
+    "parent_code": 5010,
+    "level_num": 3
+  },
+  {
+    "code": 502010,
+    "name_cn": "媒体",
+    "name_en": "Media",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 502020,
+    "name_cn": "娱乐",
+    "name_en": "Entertainment",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 502030,
+    "name_cn": "互动媒体与服务",
+    "name_en": "Interactive Media & Services",
+    "parent_code": 5020,
+    "level_num": 3
+  },
+  {
+    "code": 551010,
+    "name_cn": "电气事业",
+    "name_en": "Electric Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551020,
+    "name_cn": "燃气事业",
+    "name_en": "Gas Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551030,
+    "name_cn": "复合公共事业",
+    "name_en": "Multi-Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551040,
+    "name_cn": "供水事业",
+    "name_en": "Water Utilities",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 551050,
+    "name_cn": "独立电力和可再生电力生产商",
+    "name_en": "Independent Power and Renewable Electricity Producers",
+    "parent_code": 5510,
+    "level_num": 3
+  },
+  {
+    "code": 601010,
+    "name_cn": "股票房地产投资信托（REIT）",
+    "name_en": "Diversified REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601025,
+    "name_cn": "工业地产REITs",
+    "name_en": "Industrial REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601030,
+    "name_cn": "酒店及度假村REITs",
+    "name_en": "Hotel & Resort REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601040,
+    "name_cn": "办公楼/写字楼REITs",
+    "name_en": "Office REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601050,
+    "name_cn": "医疗保健地产REITs",
+    "name_en": "Health Care REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601060,
+    "name_cn": "住宅地产REITs",
+    "name_en": "Residential REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601070,
+    "name_cn": "零售地产REITs",
+    "name_en": "Retail REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 601080,
+    "name_cn": "专业地产REITs",
+    "name_en": "Specialized REITs",
+    "parent_code": 6010,
+    "level_num": 3
+  },
+  {
+    "code": 602010,
+    "name_cn": "房地产开发与管理",
+    "name_en": "Real Estate Management & Development",
+    "parent_code": 6020,
+    "level_num": 3
+  },
+  {
+    "code": 10101010,
+    "name_cn": "石油和天然气钻探",
+    "name_en": "Oil & Gas Drilling",
+    "parent_code": 101010,
+    "level_num": 4
+  },
+  {
+    "code": 10101020,
+    "name_cn": "石油和天然气设备与服务",
+    "name_en": "Oil & Gas Equipment & Services",
+    "parent_code": 101010,
+    "level_num": 4
+  },
+  {
+    "code": 10102010,
+    "name_cn": "油气一体化",
+    "name_en": "Integrated Oil & Gas",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102020,
+    "name_cn": "油气勘探与生产",
+    "name_en": "Oil & Gas Exploration & Production",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102030,
+    "name_cn": "石油和天然气精炼与销售",
+    "name_en": "Oil & Gas Refining & Marketing",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102040,
+    "name_cn": "油气储运",
+    "name_en": "Oil & Gas Storage & Transportation",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 10102050,
+    "name_cn": "煤炭与消耗性燃料",
+    "name_en": "Coal & Consumable Fuels",
+    "parent_code": 101020,
+    "level_num": 4
+  },
+  {
+    "code": 15101010,
+    "name_cn": "商品化学品",
+    "name_en": "Commodity Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101020,
+    "name_cn": "多种化学品",
+    "name_en": "Diversified Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101030,
+    "name_cn": "肥料和农用化学品",
+    "name_en": "Fertilizers & Agricultural Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101040,
+    "name_cn": "工业用气体",
+    "name_en": "Industrial Gases",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15101050,
+    "name_cn": "特种化学品",
+    "name_en": "Specialty Chemicals",
+    "parent_code": 151010,
+    "level_num": 4
+  },
+  {
+    "code": 15102010,
+    "name_cn": "建筑材料",
+    "name_en": "Construction Materials",
+    "parent_code": 151020,
+    "level_num": 4
+  },
+  {
+    "code": 15103010,
+    "name_cn": "金属和玻璃容器",
+    "name_en": "Metal, Glass & Plastic Containers",
+    "parent_code": 151030,
+    "level_num": 4
+  },
+  {
+    "code": 15103020,
+    "name_cn": "纸包装",
+    "name_en": "Paper & Plastic Packaging Products & Materials",
+    "parent_code": 151030,
+    "level_num": 4
+  },
+  {
+    "code": 15104010,
+    "name_cn": "铝",
+    "name_en": "Aluminum",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104020,
+    "name_cn": "多种金属与综合矿业",
+    "name_en": "Diversified Metals & Mining",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104025,
+    "name_cn": "铜",
+    "name_en": "Copper",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104030,
+    "name_cn": "金",
+    "name_en": "Gold",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104040,
+    "name_cn": "贵金属及其矿物",
+    "name_en": "Precious Metals & Minerals",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104045,
+    "name_cn": "银",
+    "name_en": "Silver",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15104050,
+    "name_cn": "钢",
+    "name_en": "Steel",
+    "parent_code": 151040,
+    "level_num": 4
+  },
+  {
+    "code": 15105010,
+    "name_cn": "林业产品",
+    "name_en": "Forest Products",
+    "parent_code": 151050,
+    "level_num": 4
+  },
+  {
+    "code": 15105020,
+    "name_cn": "造纸业",
+    "name_en": "Paper Products",
+    "parent_code": 151050,
+    "level_num": 4
+  },
+  {
+    "code": 20101010,
+    "name_cn": "航空航天与国防",
+    "name_en": "Aerospace & Defense",
+    "parent_code": 201010,
+    "level_num": 4
+  },
+  {
+    "code": 20102010,
+    "name_cn": "建筑产品",
+    "name_en": "Building Products",
+    "parent_code": 201020,
+    "level_num": 4
+  },
+  {
+    "code": 20103010,
+    "name_cn": "建筑与工程",
+    "name_en": "Construction & Engineering",
+    "parent_code": 201030,
+    "level_num": 4
+  },
+  {
+    "code": 20104010,
+    "name_cn": "电气元件和设备",
+    "name_en": "Electrical Components & Equipment",
+    "parent_code": 201040,
+    "level_num": 4
+  },
+  {
+    "code": 20104020,
+    "name_cn": "重型电气设备",
+    "name_en": "Heavy Electrical Equipment",
+    "parent_code": 201040,
+    "level_num": 4
+  },
+  {
+    "code": 20105010,
+    "name_cn": "工业集团",
+    "name_en": "Industrial Conglomerates",
+    "parent_code": 201050,
+    "level_num": 4
+  },
+  {
+    "code": 20106010,
+    "name_cn": "建筑机械与重型卡车",
+    "name_en": "Construction Machinery & Heavy Transportation Equipment",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20106015,
+    "name_cn": "农用机械",
+    "name_en": "Agricultural & Farm Machinery",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20106020,
+    "name_cn": "工业机械",
+    "name_en": "Industrial Machinery & Supplies & Components",
+    "parent_code": 201060,
+    "level_num": 4
+  },
+  {
+    "code": 20107010,
+    "name_cn": "贸易公司和分销商",
+    "name_en": "Trading Companies & Distributors",
+    "parent_code": 201070,
+    "level_num": 4
+  },
+  {
+    "code": 20201010,
+    "name_cn": "商业印刷",
+    "name_en": "Commercial Printing",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201050,
+    "name_cn": "环境与设施服务",
+    "name_en": "Environmental & Facilities Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201060,
+    "name_cn": "办公服务和用品",
+    "name_en": "Office Services & Supplies",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201070,
+    "name_cn": "综合支持服务",
+    "name_en": "Diversified Support Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20201080,
+    "name_cn": "安全和警报服务",
+    "name_en": "Security & Alarm Services",
+    "parent_code": 202010,
+    "level_num": 4
+  },
+  {
+    "code": 20202010,
+    "name_cn": "人力资源与就业服务",
+    "name_en": "Human Resource & Employment Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20202020,
+    "name_cn": "研究与咨询服务",
+    "name_en": "Research & Consulting Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20202030,
+    "name_cn": "数据处理与外包服务",
+    "name_en": "Data Processing & Outsourced Services",
+    "parent_code": 202020,
+    "level_num": 4
+  },
+  {
+    "code": 20301010,
+    "name_cn": "航空货运与物流",
+    "name_en": "Air Freight & Logistics",
+    "parent_code": 203010,
+    "level_num": 4
+  },
+  {
+    "code": 20302010,
+    "name_cn": "航空公司",
+    "name_en": "Passenger Airlines",
+    "parent_code": 203020,
+    "level_num": 4
+  },
+  {
+    "code": 20303010,
+    "name_cn": "海洋",
+    "name_en": "Marine Transportation",
+    "parent_code": 203030,
+    "level_num": 4
+  },
+  {
+    "code": 20304010,
+    "name_cn": "铁路",
+    "name_en": "Rail Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20304030,
+    "name_cn": "货物地面运输",
+    "name_en": "Cargo Ground Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20304040,
+    "name_cn": "旅客地面运输",
+    "name_en": "Passenger Ground Transportation",
+    "parent_code": 203040,
+    "level_num": 4
+  },
+  {
+    "code": 20305010,
+    "name_cn": "机场服务",
+    "name_en": "Airport Services",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 20305020,
+    "name_cn": "公路和铁路",
+    "name_en": "Highways & Railtracks",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 20305030,
+    "name_cn": "海洋港口与服务",
+    "name_en": "Marine Ports & Services",
+    "parent_code": 203050,
+    "level_num": 4
+  },
+  {
+    "code": 25101010,
+    "name_cn": "汽车零部件和设备",
+    "name_en": "Automotive Parts & Equipment",
+    "parent_code": 251010,
+    "level_num": 4
+  },
+  {
+    "code": 25101020,
+    "name_cn": "轮胎和橡胶",
+    "name_en": "Tires & Rubber",
+    "parent_code": 251010,
+    "level_num": 4
+  },
+  {
+    "code": 25102010,
+    "name_cn": "汽车制造商",
+    "name_en": "Automobile Manufacturers",
+    "parent_code": 251020,
+    "level_num": 4
+  },
+  {
+    "code": 25102020,
+    "name_cn": "摩托车制造商",
+    "name_en": "Motorcycle Manufacturers",
+    "parent_code": 251020,
+    "level_num": 4
+  },
+  {
+    "code": 25201010,
+    "name_cn": "消费电子",
+    "name_en": "Consumer Electronics",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201020,
+    "name_cn": "家居摆设",
+    "name_en": "Home Furnishings",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201030,
+    "name_cn": "房屋建筑",
+    "name_en": "Homebuilding",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201040,
+    "name_cn": "家用电器",
+    "name_en": "Household Appliances",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25201050,
+    "name_cn": "家庭用品和特色",
+    "name_en": "Housewares & Specialties",
+    "parent_code": 252010,
+    "level_num": 4
+  },
+  {
+    "code": 25202010,
+    "name_cn": "休闲产品",
+    "name_en": "Leisure Products",
+    "parent_code": 252020,
+    "level_num": 4
+  },
+  {
+    "code": 25203010,
+    "name_cn": "服装、配饰和奢侈品",
+    "name_en": "Apparel, Accessories & Luxury Goods",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25203020,
+    "name_cn": "鞋类",
+    "name_en": "Footwear",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25203030,
+    "name_cn": "纺织品",
+    "name_en": "Textiles",
+    "parent_code": 252030,
+    "level_num": 4
+  },
+  {
+    "code": 25301010,
+    "name_cn": "赌场与游戏",
+    "name_en": "Casinos & Gaming",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301020,
+    "name_cn": "酒店、度假村与邮轮公司",
+    "name_en": "Hotels, Resorts & Cruise Lines",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301030,
+    "name_cn": "休闲设施",
+    "name_en": "Leisure Facilities",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25301040,
+    "name_cn": "餐厅",
+    "name_en": "Restaurants",
+    "parent_code": 253010,
+    "level_num": 4
+  },
+  {
+    "code": 25302010,
+    "name_cn": "教育服务",
+    "name_en": "Education Services",
+    "parent_code": 253020,
+    "level_num": 4
+  },
+  {
+    "code": 25302020,
+    "name_cn": "专业消费者服务",
+    "name_en": "Specialized Consumer Services",
+    "parent_code": 253020,
+    "level_num": 4
+  },
+  {
+    "code": 25501010,
+    "name_cn": "分销商",
+    "name_en": "Distributors",
+    "parent_code": 255010,
+    "level_num": 4
+  },
+  {
+    "code": 25503030,
+    "name_cn": "综合零售",
+    "name_en": "Broadline Retail",
+    "parent_code": 255030,
+    "level_num": 4
+  },
+  {
+    "code": 25504010,
+    "name_cn": "服装零售",
+    "name_en": "Apparel Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504020,
+    "name_cn": "电脑和电子产品零售",
+    "name_en": "Computer & Electronics Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504030,
+    "name_cn": "家居装饰零售",
+    "name_en": "Home Improvement Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504040,
+    "name_cn": "专卖店",
+    "name_en": "Other Specialty Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504050,
+    "name_cn": "汽车零售",
+    "name_en": "Automotive Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 25504060,
+    "name_cn": "家居零售",
+    "name_en": "Homefurnishing Retail",
+    "parent_code": 255040,
+    "level_num": 4
+  },
+  {
+    "code": 30101010,
+    "name_cn": "药品零售",
+    "name_en": "Drug Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101020,
+    "name_cn": "食品分销商",
+    "name_en": "Food Distributors",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101030,
+    "name_cn": "食品零售",
+    "name_en": "Food Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30101040,
+    "name_cn": "大型超市和超级购物中心",
+    "name_en": "Consumer Staples Merchandise Retail",
+    "parent_code": 301010,
+    "level_num": 4
+  },
+  {
+    "code": 30201010,
+    "name_cn": "啤酒厂",
+    "name_en": "Brewers",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30201020,
+    "name_cn": "蒸馏酒厂和葡萄酒厂",
+    "name_en": "Distillers & Vintners",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30201030,
+    "name_cn": "软饮料",
+    "name_en": "Soft Drinks & Non-alcoholic Beverages",
+    "parent_code": 302010,
+    "level_num": 4
+  },
+  {
+    "code": 30202010,
+    "name_cn": "农产品",
+    "name_en": "Agricultural Products & Services",
+    "parent_code": 302020,
+    "level_num": 4
+  },
+  {
+    "code": 30202030,
+    "name_cn": "包装食品和肉类",
+    "name_en": "Packaged Foods & Meats",
+    "parent_code": 302020,
+    "level_num": 4
+  },
+  {
+    "code": 30203010,
+    "name_cn": "烟草",
+    "name_en": "Tobacco",
+    "parent_code": 302030,
+    "level_num": 4
+  },
+  {
+    "code": 30301010,
+    "name_cn": "家居用品",
+    "name_en": "Household Products",
+    "parent_code": 303010,
+    "level_num": 4
+  },
+  {
+    "code": 30302010,
+    "name_cn": "个人产品",
+    "name_en": "Personal Care Products",
+    "parent_code": 303020,
+    "level_num": 4
+  },
+  {
+    "code": 35101010,
+    "name_cn": "保健设备",
+    "name_en": "Health Care Equipment",
+    "parent_code": 351010,
+    "level_num": 4
+  },
+  {
+    "code": 35101020,
+    "name_cn": "卫生保健用品",
+    "name_en": "Health Care Supplies",
+    "parent_code": 351010,
+    "level_num": 4
+  },
+  {
+    "code": 35102010,
+    "name_cn": "医疗保健分销商",
+    "name_en": "Health Care Distributors",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102015,
+    "name_cn": "卫生保健服务",
+    "name_en": "Health Care Services",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102020,
+    "name_cn": "卫生保健设施",
+    "name_en": "Health Care Facilities",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35102030,
+    "name_cn": "管理式医疗保健",
+    "name_en": "Managed Health Care",
+    "parent_code": 351020,
+    "level_num": 4
+  },
+  {
+    "code": 35103010,
+    "name_cn": "卫生保健技术",
+    "name_en": "Health Care Technology",
+    "parent_code": 351030,
+    "level_num": 4
+  },
+  {
+    "code": 35201010,
+    "name_cn": "生物技术",
+    "name_en": "Biotechnology",
+    "parent_code": 352010,
+    "level_num": 4
+  },
+  {
+    "code": 35202010,
+    "name_cn": "制药",
+    "name_en": "Pharmaceuticals",
+    "parent_code": 352020,
+    "level_num": 4
+  },
+  {
+    "code": 35203010,
+    "name_cn": "生命科学工具与服务",
+    "name_en": "Life Sciences Tools & Services",
+    "parent_code": 352030,
+    "level_num": 4
+  },
+  {
+    "code": 40101010,
+    "name_cn": "多元化银行",
+    "name_en": "Diversified Banks",
+    "parent_code": 401010,
+    "level_num": 4
+  },
+  {
+    "code": 40101015,
+    "name_cn": "区域银行",
+    "name_en": "Regional Banks",
+    "parent_code": 401010,
+    "level_num": 4
+  },
+  {
+    "code": 40201020,
+    "name_cn": "其他多元化金融服务",
+    "name_en": "Diversified Financial Services",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201030,
+    "name_cn": "多领域控股",
+    "name_en": "Multi-Sector Holdings",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201040,
+    "name_cn": "专业金融",
+    "name_en": "Specialized Finance",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201050,
+    "name_cn": "商业与住宅抵押贷款融资",
+    "name_en": "Commercial & Residential Mortgage Finance",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40201060,
+    "name_cn": "交易与支付处理服务",
+    "name_en": "Transaction & Payment Processing Services",
+    "parent_code": 402010,
+    "level_num": 4
+  },
+  {
+    "code": 40202010,
+    "name_cn": "消费者金融",
+    "name_en": "Consumer Finance",
+    "parent_code": 402020,
+    "level_num": 4
+  },
+  {
+    "code": 40203010,
+    "name_cn": "资产管理与托管银行",
+    "name_en": "Asset Management & Custody Banks",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203020,
+    "name_cn": "投资银行与经纪",
+    "name_en": "Investment Banking & Brokerage",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203030,
+    "name_cn": "多元化的资本市场",
+    "name_en": "Diversified Capital Markets",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40203040,
+    "name_cn": "财务交易与数据",
+    "name_en": "Financial Exchanges & Data",
+    "parent_code": 402030,
+    "level_num": 4
+  },
+  {
+    "code": 40204010,
+    "name_cn": "抵押房地产投资信托",
+    "name_en": "Mortgage REITs",
+    "parent_code": 402040,
+    "level_num": 4
+  },
+  {
+    "code": 40301010,
+    "name_cn": "保险经纪人",
+    "name_en": "Insurance Brokers",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301020,
+    "name_cn": "人寿与健康保险",
+    "name_en": "Life & Health Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301030,
+    "name_cn": "多线保险",
+    "name_en": "Multi-line Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301040,
+    "name_cn": "财产保险",
+    "name_en": "Property & Casualty Insurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 40301050,
+    "name_cn": "再保险",
+    "name_en": "Reinsurance",
+    "parent_code": 403010,
+    "level_num": 4
+  },
+  {
+    "code": 45102010,
+    "name_cn": "资讯技术咨询和其他服务",
+    "name_en": "IT Consulting & Other Services",
+    "parent_code": 451020,
+    "level_num": 4
+  },
+  {
+    "code": 45102030,
+    "name_cn": "互联网服务与基础设施",
+    "name_en": "Internet Services & Infrastructure",
+    "parent_code": 451020,
+    "level_num": 4
+  },
+  {
+    "code": 45103010,
+    "name_cn": "应用软件",
+    "name_en": "Application Software",
+    "parent_code": 451030,
+    "level_num": 4
+  },
+  {
+    "code": 45103020,
+    "name_cn": "系统软件",
+    "name_en": "Systems Software",
+    "parent_code": 451030,
+    "level_num": 4
+  },
+  {
+    "code": 45201020,
+    "name_cn": "通信设备",
+    "name_en": "Communications Equipment",
+    "parent_code": 452010,
+    "level_num": 4
+  },
+  {
+    "code": 45202030,
+    "name_cn": "技术硬件、存储和外部设备",
+    "name_en": "Technology Hardware, Storage & Peripherals",
+    "parent_code": 452020,
+    "level_num": 4
+  },
+  {
+    "code": 45203010,
+    "name_cn": "电子设备及仪器",
+    "name_en": "Electronic Equipment & Instruments",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203015,
+    "name_cn": "电子元器件",
+    "name_en": "Electronic Components",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203020,
+    "name_cn": "电子制造服务",
+    "name_en": "Electronic Manufacturing Services",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45203030,
+    "name_cn": "技术分销商",
+    "name_en": "Technology Distributors",
+    "parent_code": 452030,
+    "level_num": 4
+  },
+  {
+    "code": 45301010,
+    "name_cn": "半导体设备",
+    "name_en": "Semiconductor Materials & Equipment",
+    "parent_code": 453010,
+    "level_num": 4
+  },
+  {
+    "code": 45301020,
+    "name_cn": "半导体",
+    "name_en": "Semiconductors",
+    "parent_code": 453010,
+    "level_num": 4
+  },
+  {
+    "code": 50101010,
+    "name_cn": "替代性电信运营商",
+    "name_en": "Alternative Carriers",
+    "parent_code": 501010,
+    "level_num": 4
+  },
+  {
+    "code": 50101020,
+    "name_cn": "综合电信服务",
+    "name_en": "Integrated Telecommunication Services",
+    "parent_code": 501010,
+    "level_num": 4
+  },
+  {
+    "code": 50102010,
+    "name_cn": "无线电信服务",
+    "name_en": "Wireless Telecommunication Services",
+    "parent_code": 501020,
+    "level_num": 4
+  },
+  {
+    "code": 50201010,
+    "name_cn": "广告",
+    "name_en": "Advertising",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201020,
+    "name_cn": "广播",
+    "name_en": "Broadcasting",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201030,
+    "name_cn": "有线和卫星",
+    "name_en": "Cable & Satellite",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50201040,
+    "name_cn": "出版",
+    "name_en": "Publishing",
+    "parent_code": 502010,
+    "level_num": 4
+  },
+  {
+    "code": 50202010,
+    "name_cn": "影视娱乐",
+    "name_en": "Movies & Entertainment",
+    "parent_code": 502020,
+    "level_num": 4
+  },
+  {
+    "code": 50202020,
+    "name_cn": "互动家庭娱乐",
+    "name_en": "Interactive Home Entertainment",
+    "parent_code": 502020,
+    "level_num": 4
+  },
+  {
+    "code": 50203010,
+    "name_cn": "互动媒体与服务",
+    "name_en": "Interactive Media & Services",
+    "parent_code": 502030,
+    "level_num": 4
+  },
+  {
+    "code": 55101010,
+    "name_cn": "电气事业",
+    "name_en": "Electric Utilities",
+    "parent_code": 551010,
+    "level_num": 4
+  },
+  {
+    "code": 55102010,
+    "name_cn": "燃气事业",
+    "name_en": "Gas Utilities",
+    "parent_code": 551020,
+    "level_num": 4
+  },
+  {
+    "code": 55103010,
+    "name_cn": "复合公共事业",
+    "name_en": "Multi-Utilities",
+    "parent_code": 551030,
+    "level_num": 4
+  },
+  {
+    "code": 55104010,
+    "name_cn": "供水事业",
+    "name_en": "Water Utilities",
+    "parent_code": 551040,
+    "level_num": 4
+  },
+  {
+    "code": 55105010,
+    "name_cn": "独立电力生产商和能源贸易商",
+    "name_en": "Independent Power Producers & Energy Traders",
+    "parent_code": 551050,
+    "level_num": 4
+  },
+  {
+    "code": 55105020,
+    "name_cn": "可再生电力",
+    "name_en": "Renewable Electricity",
+    "parent_code": 551050,
+    "level_num": 4
+  },
+  {
+    "code": 60101010,
+    "name_cn": "多元化房地产投资信托",
+    "name_en": "Diversified REITs",
+    "parent_code": 601010,
+    "level_num": 4
+  },
+  {
+    "code": 60102510,
+    "name_cn": "工业地产REITs",
+    "name_en": "Industrial REITs",
+    "parent_code": 601025,
+    "level_num": 4
+  },
+  {
+    "code": 60103010,
+    "name_cn": "酒店及度假村REITs",
+    "name_en": "Hotel & Resort REITs",
+    "parent_code": 601030,
+    "level_num": 4
+  },
+  {
+    "code": 60104010,
+    "name_cn": "办公楼REITs",
+    "name_en": "Office REITs",
+    "parent_code": 601040,
+    "level_num": 4
+  },
+  {
+    "code": 60105010,
+    "name_cn": "医疗保健地产REITs",
+    "name_en": "Health Care REITs",
+    "parent_code": 601050,
+    "level_num": 4
+  },
+  {
+    "code": 60106010,
+    "name_cn": "多户住宅REITs",
+    "name_en": "Multi-Family Residential REITs",
+    "parent_code": 601060,
+    "level_num": 4
+  },
+  {
+    "code": 60106020,
+    "name_cn": "独户住宅REITs",
+    "name_en": "Single-Family Residential REITs",
+    "parent_code": 601060,
+    "level_num": 4
+  },
+  {
+    "code": 60107010,
+    "name_cn": "零售地产REITs",
+    "name_en": "Retail REITs",
+    "parent_code": 601070,
+    "level_num": 4
+  },
+  {
+    "code": 60108010,
+    "name_cn": "其他专业地产REITs",
+    "name_en": "Other Specialized REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108020,
+    "name_cn": "自助仓储REITs",
+    "name_en": "Self-Storage REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108030,
+    "name_cn": "电信塔REITs",
+    "name_en": "Telecom Tower REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108040,
+    "name_cn": "木材地产REITs",
+    "name_en": "Timber REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60108050,
+    "name_cn": "数据中心REITs",
+    "name_en": "Data Center REITs",
+    "parent_code": 601080,
+    "level_num": 4
+  },
+  {
+    "code": 60201010,
+    "name_cn": "多元化房地产活动",
+    "name_en": "Diversified Real Estate Activities",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201020,
+    "name_cn": "房地产运营公司",
+    "name_en": "Real Estate Operating Companies",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201030,
+    "name_cn": "房地产开发",
+    "name_en": "Real Estate Development",
+    "parent_code": 602010,
+    "level_num": 4
+  },
+  {
+    "code": 60201040,
+    "name_cn": "房地产服务",
+    "name_en": "Real Estate Services",
+    "parent_code": 602010,
+    "level_num": 4
+  }
 ]

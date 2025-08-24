@@ -1,32 +1,15 @@
--- --------------------------------------------------------
--- 主机:                           127.0.0.1
--- 服务器版本:                        9.4.0 - MySQL Community Server - GPL
--- 服务器操作系统:                      Win64
--- HeidiSQL 版本:                  12.11.0.7065
--- --------------------------------------------------------
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET NAMES utf8 */;
-/*!50503 SET NAMES utf8mb4 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
--- 导出  表 doma.sys_industry_gics 结构
 DROP TABLE IF EXISTS `sys_industry_gics`;
 CREATE TABLE IF NOT EXISTS `sys_industry_gics` (
   `id` int NOT NULL AUTO_INCREMENT COMMENT 'ID',
-  `code` varchar(12) COLLATE utf8mb4_unicode_ci NOT NULL COMMENT '代码',
-  `name_cn` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL COMMENT '中文名称',
-  `name_en` varchar(1000) COLLATE utf8mb4_unicode_ci NOT NULL COMMENT '英文',
-  `parent_code` varchar(12) COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT '父类代码',
+  `code` varchar(12) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL COMMENT '代码',
+  `name_cn` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL COMMENT '中文名称',
+  `name_en` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL COMMENT '英文',
+  `parent_code` varchar(12) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL COMMENT '父类代码',
   `level_num` int NOT NULL COMMENT '级别',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=274 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=274 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='行业分类GICS';
 
--- 正在导出表  doma.sys_industry_gics 的数据：~273 rows (大约)
+
 DELETE FROM `sys_industry_gics`;
 INSERT INTO `sys_industry_gics` (`id`, `code`, `name_cn`, `name_en`, `parent_code`, `level_num`) VALUES
 	(1, '10', '能源', 'Energy', NULL, 1),
@@ -302,9 +285,3 @@ INSERT INTO `sys_industry_gics` (`id`, `code`, `name_cn`, `name_en`, `parent_cod
 	(271, '60201020', '房地产运营公司', 'Real Estate Operating Companies', '602010', 4),
 	(272, '60201030', '房地产开发', 'Real Estate Development', '602010', 4),
 	(273, '60201040', '房地产服务', 'Real Estate Services', '602010', 4);
-
-/*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
-/*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
-/*!40014 SET FOREIGN_KEY_CHECKS=IFNULL(@OLD_FOREIGN_KEY_CHECKS, 1) */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40111 SET SQL_NOTES=IFNULL(@OLD_SQL_NOTES, 1) */;

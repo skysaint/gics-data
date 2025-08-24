@@ -103,7 +103,7 @@
   },
   {
     "code": 2520,
-    "name": "Consumer Durables?& Apparel",
+    "name": "Consumer Durables & Apparel",
     "parent_code": 25,
     "level_num": 2
   },
@@ -115,7 +115,7 @@
   },
   {
     "code": 2550,
-    "name": "Consumer Discretionary Distribution &?Retail",
+    "name": "Consumer Discretionary Distribution & Retail",
     "parent_code": 25,
     "level_num": 2
   },
@@ -223,7 +223,7 @@
   },
   {
     "code": 101020,
-    "name": "Oil,?Gas?& Consumable Fuels",
+    "name": "Oil, Gas & Consumable Fuels",
     "parent_code": 1010,
     "level_num": 3
   },
@@ -241,13 +241,13 @@
   },
   {
     "code": 151030,
-    "name": "Containers?&?Packaging",
+    "name": "Containers & Packaging",
     "parent_code": 1510,
     "level_num": 3
   },
   {
     "code": 151040,
-    "name": "Metals?&?Mining",
+    "name": "Metals & Mining",
     "parent_code": 1510,
     "level_num": 3
   },
@@ -259,7 +259,7 @@
   },
   {
     "code": 201010,
-    "name": "Aerospace?&?Defense",
+    "name": "Aerospace & Defense",
     "parent_code": 2010,
     "level_num": 3
   },
@@ -271,7 +271,7 @@
   },
   {
     "code": 201030,
-    "name": "Construction?&?Engineering",
+    "name": "Construction & Engineering",
     "parent_code": 2010,
     "level_num": 3
   },
@@ -295,7 +295,7 @@
   },
   {
     "code": 201070,
-    "name": "Trading Companies?&?Distributors",
+    "name": "Trading Companies & Distributors",
     "parent_code": 2010,
     "level_num": 3
   },
@@ -313,13 +313,13 @@
   },
   {
     "code": 203010,
-    "name": "Air Freight?&?Logistics",
+    "name": "Air Freight & Logistics",
     "parent_code": 2030,
     "level_num": 3
   },
   {
     "code": 203020,
-    "name": "Passenger?Airlines",
+    "name": "Passenger Airlines",
     "parent_code": 2030,
     "level_num": 3
   },
@@ -367,7 +367,7 @@
   },
   {
     "code": 252030,
-    "name": "Textiles,?Apparel?& Luxury Goods",
+    "name": "Textiles, Apparel & Luxury Goods",
     "parent_code": 2520,
     "level_num": 3
   },
@@ -571,7 +571,7 @@
   },
   {
     "code": 502030,
-    "name": "Interactive Media?& Services",
+    "name": "Interactive Media & Services",
     "parent_code": 5020,
     "level_num": 3
   },
@@ -601,7 +601,7 @@
   },
   {
     "code": 551050,
-    "name": "Independent Power and?Renewable Electricity?Producers",
+    "name": "Independent Power and Renewable Electricity Producers",
     "parent_code": 5510,
     "level_num": 3
   },
@@ -655,13 +655,13 @@
   },
   {
     "code": 602010,
-    "name": "Real Estate Management?& Development",
+    "name": "Real Estate Management & Development",
     "parent_code": 6020,
     "level_num": 3
   },
   {
     "code": 10101010,
-    "name": "Oil?& Gas Drilling",
+    "name": "Oil & Gas Drilling",
     "parent_code": 101010,
     "level_num": 4
   },
@@ -679,25 +679,25 @@
   },
   {
     "code": 10102020,
-    "name": "Oil & Gas Exploration?& Production",
+    "name": "Oil & Gas Exploration & Production",
     "parent_code": 101020,
     "level_num": 4
   },
   {
     "code": 10102030,
-    "name": "Oil?&?Gas Refining?& Marketing",
+    "name": "Oil & Gas Refining & Marketing",
     "parent_code": 101020,
     "level_num": 4
   },
   {
     "code": 10102040,
-    "name": "Oil?&?Gas Storage?& Transportation",
+    "name": "Oil & Gas Storage & Transportation",
     "parent_code": 101020,
     "level_num": 4
   },
   {
     "code": 10102050,
-    "name": "Coal?& Consumable Fuels",
+    "name": "Coal & Consumable Fuels",
     "parent_code": 101020,
     "level_num": 4
   },
@@ -715,7 +715,7 @@
   },
   {
     "code": 15101030,
-    "name": "Fertilizers?&?Agricultural Chemicals",
+    "name": "Fertilizers & Agricultural Chemicals",
     "parent_code": 151010,
     "level_num": 4
   },
@@ -739,7 +739,7 @@
   },
   {
     "code": 15103010,
-    "name": "Metal, Glass &?Plastic Containers",
+    "name": "Metal, Glass & Plastic Containers",
     "parent_code": 151030,
     "level_num": 4
   },
@@ -775,7 +775,7 @@
   },
   {
     "code": 15104040,
-    "name": "Precious Metals?&?Minerals",
+    "name": "Precious Metals & Minerals",
     "parent_code": 151040,
     "level_num": 4
   },
@@ -817,13 +817,13 @@
   },
   {
     "code": 20103010,
-    "name": "Construction?& Engineering",
+    "name": "Construction & Engineering",
     "parent_code": 201030,
     "level_num": 4
   },
   {
     "code": 20104010,
-    "name": "Electrical Components?& Equipment",
+    "name": "Electrical Components & Equipment",
     "parent_code": 201040,
     "level_num": 4
   },
@@ -841,7 +841,7 @@
   },
   {
     "code": 20106010,
-    "name": "Construction Machinery?& Heavy Transportation Equipment",
+    "name": "Construction Machinery & Heavy Transportation Equipment",
     "parent_code": 201060,
     "level_num": 4
   },
@@ -877,7 +877,7 @@
   },
   {
     "code": 20201060,
-    "name": "Office Services &?Supplies",
+    "name": "Office Services & Supplies",
     "parent_code": 202010,
     "level_num": 4
   },
@@ -889,31 +889,31 @@
   },
   {
     "code": 20201080,
-    "name": "Security?& Alarm Services",
+    "name": "Security & Alarm Services",
     "parent_code": 202010,
     "level_num": 4
   },
   {
     "code": 20202010,
-    "name": "Human Resource?& Employment Services",
+    "name": "Human Resource & Employment Services",
     "parent_code": 202020,
     "level_num": 4
   },
   {
     "code": 20202020,
-    "name": "Research &?Consulting Services",
+    "name": "Research & Consulting Services",
     "parent_code": 202020,
     "level_num": 4
   },
   {
     "code": 20202030,
-    "name": "Data Processing?&?Outsourced Services",
+    "name": "Data Processing & Outsourced Services",
     "parent_code": 202020,
     "level_num": 4
   },
   {
     "code": 20301010,
-    "name": "Air Freight &?Logistics",
+    "name": "Air Freight & Logistics",
     "parent_code": 203010,
     "level_num": 4
   },
@@ -949,19 +949,19 @@
   },
   {
     "code": 20305010,
-    "name": "Airport?Services",
+    "name": "Airport Services",
     "parent_code": 203050,
     "level_num": 4
   },
   {
     "code": 20305020,
-    "name": "Highways?&?Railtracks",
+    "name": "Highways & Railtracks",
     "parent_code": 203050,
     "level_num": 4
   },
   {
     "code": 20305030,
-    "name": "Marine?Ports?& Services",
+    "name": "Marine Ports & Services",
     "parent_code": 203050,
     "level_num": 4
   },
@@ -973,7 +973,7 @@
   },
   {
     "code": 25101020,
-    "name": "Tires?& Rubber",
+    "name": "Tires & Rubber",
     "parent_code": 251010,
     "level_num": 4
   },
@@ -1027,7 +1027,7 @@
   },
   {
     "code": 25203010,
-    "name": "Apparel,?Accessories?&?Luxury Goods",
+    "name": "Apparel, Accessories & Luxury Goods",
     "parent_code": 252030,
     "level_num": 4
   },
@@ -1045,13 +1045,13 @@
   },
   {
     "code": 25301010,
-    "name": "Casinos?&?Gaming",
+    "name": "Casinos & Gaming",
     "parent_code": 253010,
     "level_num": 4
   },
   {
     "code": 25301020,
-    "name": "Hotels,?Resorts?&?Cruise Lines",
+    "name": "Hotels, Resorts & Cruise Lines",
     "parent_code": 253010,
     "level_num": 4
   },
@@ -1069,7 +1069,7 @@
   },
   {
     "code": 25302010,
-    "name": "Education?Services",
+    "name": "Education Services",
     "parent_code": 253020,
     "level_num": 4
   },
@@ -1159,13 +1159,13 @@
   },
   {
     "code": 30201020,
-    "name": "Distillers?&?Vintners",
+    "name": "Distillers & Vintners",
     "parent_code": 302010,
     "level_num": 4
   },
   {
     "code": 30201030,
-    "name": "Soft Drinks?&?Non-alcoholic Beverages",
+    "name": "Soft Drinks & Non-alcoholic Beverages",
     "parent_code": 302010,
     "level_num": 4
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "code": 30202030,
-    "name": "Packaged Foods?&?Meats",
+    "name": "Packaged Foods & Meats",
     "parent_code": 302020,
     "level_num": 4
   },
@@ -1291,13 +1291,13 @@
   },
   {
     "code": 40201050,
-    "name": "Commercial & Residential?Mortgage?Finance",
+    "name": "Commercial & Residential Mortgage Finance",
     "parent_code": 402010,
     "level_num": 4
   },
   {
     "code": 40201060,
-    "name": "Transaction?&?Payment Processing Services",
+    "name": "Transaction & Payment Processing Services",
     "parent_code": 402010,
     "level_num": 4
   },
@@ -1309,13 +1309,13 @@
   },
   {
     "code": 40203010,
-    "name": "Asset Management?&?Custody Banks",
+    "name": "Asset Management & Custody Banks",
     "parent_code": 402030,
     "level_num": 4
   },
   {
     "code": 40203020,
-    "name": "Investment Banking?&?Brokerage",
+    "name": "Investment Banking & Brokerage",
     "parent_code": 402030,
     "level_num": 4
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "code": 40203040,
-    "name": "Financial Exchanges?& Data",
+    "name": "Financial Exchanges & Data",
     "parent_code": 402030,
     "level_num": 4
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "code": 40301020,
-    "name": "Life?&?Health Insurance",
+    "name": "Life & Health Insurance",
     "parent_code": 403010,
     "level_num": 4
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "code": 40301040,
-    "name": "Property?&?Casualty Insurance",
+    "name": "Property & Casualty Insurance",
     "parent_code": 403010,
     "level_num": 4
   },
@@ -1369,13 +1369,13 @@
   },
   {
     "code": 45102010,
-    "name": "IT Consulting?& Other Services",
+    "name": "IT Consulting & Other Services",
     "parent_code": 451020,
     "level_num": 4
   },
   {
     "code": 45102030,
-    "name": "Internet Services?&?Infrastructure",
+    "name": "Internet Services & Infrastructure",
     "parent_code": 451020,
     "level_num": 4
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "code": 50201030,
-    "name": "Cable?&?Satellite",
+    "name": "Cable & Satellite",
     "parent_code": 502010,
     "level_num": 4
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "code": 55105010,
-    "name": "Independent Power Producers?& Energy Traders",
+    "name": "Independent Power Producers & Energy Traders",
     "parent_code": 551050,
     "level_num": 4
   },

@@ -1,12 +1,12 @@
 DROP TABLE IF EXISTS `sys_industry_gics`;
 CREATE TABLE IF NOT EXISTS `sys_industry_gics` (
-  `id` int NOT NULL AUTO_INCREMENT,
-  `code` varchar(12)  NOT NULL,
-  `name` varchar(1000)  NOT NULL,
-  `parent_code` varchar(12)  DEFAULT NULL,
-  `level_num` int NOT NULL,
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'ID',
+  `code` varchar(12)  NOT NULL COMMENT 'Code',
+  `name` varchar(1000)  NOT NULL COMMENT 'Name',
+  `parent_code` varchar(12)  DEFAULT NULL COMMENT 'Parent code',
+  `level_num` int NOT NULL COMMENT 'Level',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB;
+) ENGINE=InnoDB COMMENT='GICS definitions';
 
 DELETE FROM `sys_industry_gics`;
 INSERT INTO `sys_industry_gics` (`id`, `code`, `name`, `parent_code`, `level_num`) VALUES
@@ -283,3 +283,4 @@ INSERT INTO `sys_industry_gics` (`id`, `code`, `name`, `parent_code`, `level_num
 	(271, '60201020', 'Real Estate Operating Companies', '602010', 4),
 	(272, '60201030', 'Real Estate Development', '602010', 4),
 	(273, '60201040', 'Real Estate Services', '602010', 4);
+

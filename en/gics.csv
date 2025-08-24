@@ -16,9 +16,9 @@ code,name,parent_code,level_num
 2020,Commercial & Professional Services,20,2
 2030,Transportation,20,2
 2510,Automobiles & Components,25,2
-2520,Consumer Durables?& Apparel,25,2
+2520,Consumer Durables & Apparel,25,2
 2530,Consumer Services,25,2
-2550,Consumer Discretionary Distribution &?Retail,25,2
+2550,Consumer Discretionary Distribution & Retail,25,2
 3010,Consumer Staples Distribution & Retail,30,2
 3020,"Food, Beverage & Tobacco",30,2
 3030,Household & Personal Products,30,2
@@ -36,23 +36,23 @@ code,name,parent_code,level_num
 6010,Equity Real Estate Investment Trusts (REITs),60,2
 6020,Real Estate Management & Development,60,2
 101010,Energy Equipment & Services,1010,3
-101020,"Oil,?Gas?& Consumable Fuels",1010,3
+101020,"Oil, Gas & Consumable Fuels",1010,3
 151010,Chemicals,1510,3
 151020,Construction Materials,1510,3
-151030,Containers?&?Packaging,1510,3
-151040,Metals?&?Mining,1510,3
+151030,Containers & Packaging,1510,3
+151040,Metals & Mining,1510,3
 151050,Paper & Forest Products,1510,3
-201010,Aerospace?&?Defense,2010,3
+201010,Aerospace & Defense,2010,3
 201020,Building Products,2010,3
-201030,Construction?&?Engineering,2010,3
+201030,Construction & Engineering,2010,3
 201040,Electrical Equipment,2010,3
 201050,Industrial Conglomerates,2010,3
 201060,Machinery,2010,3
-201070,Trading Companies?&?Distributors,2010,3
+201070,Trading Companies & Distributors,2010,3
 202010,Commercial Services & Supplies,2020,3
 202020,Professional Services,2020,3
-203010,Air Freight?&?Logistics,2030,3
-203020,Passenger?Airlines,2030,3
+203010,Air Freight & Logistics,2030,3
+203020,Passenger Airlines,2030,3
 203030,Marine Transportation,2030,3
 203040,Ground Transportation,2030,3
 203050,Transportation Infrastructure,2030,3
@@ -60,7 +60,7 @@ code,name,parent_code,level_num
 251020,Automobiles,2510,3
 252010,Household Durables,2520,3
 252020,Leisure Products,2520,3
-252030,"Textiles,?Apparel?& Luxury Goods",2520,3
+252030,"Textiles, Apparel & Luxury Goods",2520,3
 253010,"Hotels, Restaurants & Leisure",2530,3
 253020,Diversified Consumer Services,2530,3
 255010,Distributors,2550,3
@@ -94,12 +94,12 @@ code,name,parent_code,level_num
 501020,Wireless Telecommunication Services,5010,3
 502010,Media,5020,3
 502020,Entertainment,5020,3
-502030,Interactive Media?& Services,5020,3
+502030,Interactive Media & Services,5020,3
 551010,Electric Utilities,5510,3
 551020,Gas Utilities,5510,3
 551030,Multi-Utilities,5510,3
 551040,Water Utilities,5510,3
-551050,Independent Power and?Renewable Electricity?Producers,5510,3
+551050,Independent Power and Renewable Electricity Producers,5510,3
 601010,Diversified REITs,6010,3
 601025,Industrial REITs,6010,3
 601030,Hotel & Resort REITs,6010,3
@@ -108,60 +108,60 @@ code,name,parent_code,level_num
 601060,Residential REITs,6010,3
 601070,Retail REITs,6010,3
 601080,Specialized REITs,6010,3
-602010,Real Estate Management?& Development,6020,3
-10101010,Oil?& Gas Drilling,101010,4
+602010,Real Estate Management & Development,6020,3
+10101010,Oil & Gas Drilling,101010,4
 10101020,Oil & Gas Equipment & Services,101010,4
 10102010,Integrated Oil & Gas,101020,4
-10102020,Oil & Gas Exploration?& Production,101020,4
-10102030,Oil?&?Gas Refining?& Marketing,101020,4
-10102040,Oil?&?Gas Storage?& Transportation,101020,4
-10102050,Coal?& Consumable Fuels,101020,4
+10102020,Oil & Gas Exploration & Production,101020,4
+10102030,Oil & Gas Refining & Marketing,101020,4
+10102040,Oil & Gas Storage & Transportation,101020,4
+10102050,Coal & Consumable Fuels,101020,4
 15101010,Commodity Chemicals,151010,4
 15101020,Diversified Chemicals,151010,4
-15101030,Fertilizers?&?Agricultural Chemicals,151010,4
+15101030,Fertilizers & Agricultural Chemicals,151010,4
 15101040,Industrial Gases,151010,4
 15101050,Specialty Chemicals,151010,4
 15102010,Construction Materials,151020,4
-15103010,"Metal, Glass &?Plastic Containers",151030,4
+15103010,"Metal, Glass & Plastic Containers",151030,4
 15103020,Paper & Plastic Packaging Products & Materials,151030,4
 15104010,Aluminum,151040,4
 15104020,Diversified Metals & Mining,151040,4
 15104025,Copper,151040,4
 15104030,Gold,151040,4
-15104040,Precious Metals?&?Minerals,151040,4
+15104040,Precious Metals & Minerals,151040,4
 15104045,Silver,151040,4
 15104050,Steel,151040,4
 15105010,Forest Products,151050,4
 15105020,Paper Products,151050,4
 20101010,Aerospace & Defense,201010,4
 20102010,Building Products,201020,4
-20103010,Construction?& Engineering,201030,4
-20104010,Electrical Components?& Equipment,201040,4
+20103010,Construction & Engineering,201030,4
+20104010,Electrical Components & Equipment,201040,4
 20104020,Heavy Electrical Equipment,201040,4
 20105010,Industrial Conglomerates,201050,4
-20106010,Construction Machinery?& Heavy Transportation Equipment,201060,4
+20106010,Construction Machinery & Heavy Transportation Equipment,201060,4
 20106015,Agricultural & Farm Machinery,201060,4
 20106020,Industrial Machinery & Supplies & Components,201060,4
 20107010,Trading Companies & Distributors,201070,4
 20201010,Commercial Printing,202010,4
 20201050,Environmental & Facilities Services,202010,4
-20201060,Office Services &?Supplies,202010,4
+20201060,Office Services & Supplies,202010,4
 20201070,Diversified Support Services,202010,4
-20201080,Security?& Alarm Services,202010,4
-20202010,Human Resource?& Employment Services,202020,4
-20202020,Research &?Consulting Services,202020,4
-20202030,Data Processing?&?Outsourced Services,202020,4
-20301010,Air Freight &?Logistics,203010,4
+20201080,Security & Alarm Services,202010,4
+20202010,Human Resource & Employment Services,202020,4
+20202020,Research & Consulting Services,202020,4
+20202030,Data Processing & Outsourced Services,202020,4
+20301010,Air Freight & Logistics,203010,4
 20302010,Passenger Airlines,203020,4
 20303010,Marine Transportation,203030,4
 20304010,Rail Transportation,203040,4
 20304030,Cargo Ground Transportation,203040,4
 20304040,Passenger Ground Transportation,203040,4
-20305010,Airport?Services,203050,4
-20305020,Highways?&?Railtracks,203050,4
-20305030,Marine?Ports?& Services,203050,4
+20305010,Airport Services,203050,4
+20305020,Highways & Railtracks,203050,4
+20305030,Marine Ports & Services,203050,4
 25101010,Automotive Parts & Equipment,251010,4
-25101020,Tires?& Rubber,251010,4
+25101020,Tires & Rubber,251010,4
 25102010,Automobile Manufacturers,251020,4
 25102020,Motorcycle Manufacturers,251020,4
 25201010,Consumer Electronics,252010,4
@@ -170,14 +170,14 @@ code,name,parent_code,level_num
 25201040,Household Appliances,252010,4
 25201050,Housewares & Specialties,252010,4
 25202010,Leisure Products,252020,4
-25203010,"Apparel,?Accessories?&?Luxury Goods",252030,4
+25203010,"Apparel, Accessories & Luxury Goods",252030,4
 25203020,Footwear,252030,4
 25203030,Textiles,252030,4
-25301010,Casinos?&?Gaming,253010,4
-25301020,"Hotels,?Resorts?&?Cruise Lines",253010,4
+25301010,Casinos & Gaming,253010,4
+25301020,"Hotels, Resorts & Cruise Lines",253010,4
 25301030,Leisure Facilities,253010,4
 25301040,Restaurants,253010,4
-25302010,Education?Services,253020,4
+25302010,Education Services,253020,4
 25302020,Specialized Consumer Services,253020,4
 25501010,Distributors,255010,4
 25503030,Broadline Retail,255030,4
@@ -192,10 +192,10 @@ code,name,parent_code,level_num
 30101030,Food Retail,301010,4
 30101040,Consumer Staples Merchandise Retail,301010,4
 30201010,Brewers,302010,4
-30201020,Distillers?&?Vintners,302010,4
-30201030,Soft Drinks?&?Non-alcoholic Beverages,302010,4
+30201020,Distillers & Vintners,302010,4
+30201030,Soft Drinks & Non-alcoholic Beverages,302010,4
 30202010,Agricultural Products & Services,302020,4
-30202030,Packaged Foods?&?Meats,302020,4
+30202030,Packaged Foods & Meats,302020,4
 30203010,Tobacco,302030,4
 30301010,Household Products,303010,4
 30302010,Personal Care Products,303020,4
@@ -214,21 +214,21 @@ code,name,parent_code,level_num
 40201020,Diversified Financial Services,402010,4
 40201030,Multi-Sector Holdings,402010,4
 40201040,Specialized Finance,402010,4
-40201050,Commercial & Residential?Mortgage?Finance,402010,4
-40201060,Transaction?&?Payment Processing Services,402010,4
+40201050,Commercial & Residential Mortgage Finance,402010,4
+40201060,Transaction & Payment Processing Services,402010,4
 40202010,Consumer Finance,402020,4
-40203010,Asset Management?&?Custody Banks,402030,4
-40203020,Investment Banking?&?Brokerage,402030,4
+40203010,Asset Management & Custody Banks,402030,4
+40203020,Investment Banking & Brokerage,402030,4
 40203030,Diversified Capital Markets,402030,4
-40203040,Financial Exchanges?& Data,402030,4
+40203040,Financial Exchanges & Data,402030,4
 40204010,Mortgage REITs,402040,4
 40301010,Insurance Brokers,403010,4
-40301020,Life?&?Health Insurance,403010,4
+40301020,Life & Health Insurance,403010,4
 40301030,Multi-line Insurance,403010,4
-40301040,Property?&?Casualty Insurance,403010,4
+40301040,Property & Casualty Insurance,403010,4
 40301050,Reinsurance,403010,4
-45102010,IT Consulting?& Other Services,451020,4
-45102030,Internet Services?&?Infrastructure,451020,4
+45102010,IT Consulting & Other Services,451020,4
+45102030,Internet Services & Infrastructure,451020,4
 45103010,Application Software,451030,4
 45103020,Systems Software,451030,4
 45201020,Communications Equipment,452010,4
@@ -244,7 +244,7 @@ code,name,parent_code,level_num
 50102010,Wireless Telecommunication Services,501020,4
 50201010,Advertising,502010,4
 50201020,Broadcasting,502010,4
-50201030,Cable?&?Satellite,502010,4
+50201030,Cable & Satellite,502010,4
 50201040,Publishing,502010,4
 50202010,Movies & Entertainment,502020,4
 50202020,Interactive Home Entertainment,502020,4
@@ -253,7 +253,7 @@ code,name,parent_code,level_num
 55102010,Gas Utilities,551020,4
 55103010,Multi-Utilities,551030,4
 55104010,Water Utilities,551040,4
-55105010,Independent Power Producers?& Energy Traders,551050,4
+55105010,Independent Power Producers & Energy Traders,551050,4
 55105020,Renewable Electricity,551050,4
 60101010,Diversified REITs,601010,4
 60102510,Industrial REITs,601025,4
