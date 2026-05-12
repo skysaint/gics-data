@@ -26,6 +26,14 @@ https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 
 https://zh.wikipedia.org/zh-cn/%E5%85%A8%E7%90%83%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86
 
+
+### History
+
+- Initial version: Provide GICS 2023 structure data in CSV/JSON/MySQL (en/ and zh-CN-and-en/).
+- 2026-05-12:
+  - Validate that the structure (code/parent/level) matches the official workbook `original-docs/GICS Map 2025.xlsx` (structure effective close of Mar 17 2023). No structure/code changes were required.
+  - Update a small set of Chinese display names in `zh-CN-and-en` (only `name_cn`, codes unchanged): 2550, 3010, 4020, 6010, 301010, 402010. Sync changes across CSV/JSON/SQL.
+
 ------
 
 ## [中文说明]
@@ -57,3 +65,11 @@ https://www.msci.com/indexes/index-resources/gics
 https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
 
 https://zh.wikipedia.org/zh-cn/%E5%85%A8%E7%90%83%E8%A1%8C%E4%B8%9A%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86
+
+
+### 修改历史
+
+- 初始版：提供 GICS 2023 版结构数据（四级结构），并输出 en/ 与 zh-CN-and-en/ 两套数据，格式包含 CSV/JSON/MySQL。
+- 2026-05-12：
+  - 依据 `original-docs/GICS Map 2025.xlsx` 进行结构核对（该表结构生效点为 2023-03-17），确认 code/parent_code/level_num 无需变更。
+  - 更新 `zh-CN-and-en` 中少量中文展示名称（仅改 `name_cn`，不改 code）：2550、3010、4020、6010、301010、402010，并同步到 CSV/JSON/SQL。

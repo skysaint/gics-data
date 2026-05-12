@@ -18,14 +18,14 @@
 2510,汽车及零部件,Automobiles & Components,25,2
 2520,耐用消费品和服装,Consumer Durables & Apparel,25,2
 2530,消费者服务,Consumer Services,25,2
-2550,零售,Consumer Discretionary Distribution & Retail,25,2
-3010,食品和主食零售,Consumer Staples Distribution & Retail,30,2
+2550,非必需消费品分销与零售,Consumer Discretionary Distribution & Retail,25,2
+3010,必需消费品分销与零售,Consumer Staples Distribution & Retail,30,2
 3020,食品、饮料和烟草,"Food, Beverage & Tobacco",30,2
 3030,家庭和个人用品,Household & Personal Products,30,2
 3510,医疗保健设备与服务,Health Care Equipment & Services,35,2
 3520,制药、生物技术和生命科学,"Pharmaceuticals, Biotechnology & Life Sciences",35,2
 4010,银行,Banks,40,2
-4020,多元化金融,Financial Services,40,2
+4020,金融服务,Financial Services,40,2
 4030,保险,Insurance,40,2
 4510,软件与服务,Software & Services,45,2
 4520,技术性硬件和设备,Technology Hardware & Equipment,45,2
@@ -33,7 +33,7 @@
 5010,通讯服务,Telecommunication Services,50,2
 5020,媒体与娱乐,Media & Entertainment,50,2
 5510,公共事业,Utilities,55,2
-6010,房地产,Equity Real Estate Investment Trusts (REITs),60,2
+6010,权益房地产投资信托（REITs）,Equity Real Estate Investment Trusts (REITs),60,2
 6020,房地产管理与开发,Real Estate Management & Development,60,2
 101010,能源设备与服务,Energy Equipment & Services,1010,3
 101020,石油、天然气和消费燃料,"Oil, Gas & Consumable Fuels",1010,3
@@ -66,7 +66,7 @@
 255010,分销商,Distributors,2550,3
 255030,多线零售,Broadline Retail,2550,3
 255040,专业零售,Specialty Retail,2550,3
-301010,食品和主食零售,Consumer Staples Distribution & Retail,3010,3
+301010,必需消费品分销与零售,Consumer Staples Distribution & Retail,3010,3
 302010,饮料,Beverages,3020,3
 302020,食品,Food Products,3020,3
 302030,烟草,Tobacco,3020,3
@@ -79,7 +79,7 @@
 352020,制药,Pharmaceuticals,3520,3
 352030,生命科学工具与服务,Life Sciences Tools & Services,3520,3
 401010,银行,Banks,4010,3
-402010,多元化金融服务,Financial Services,4020,3
+402010,金融服务,Financial Services,4020,3
 402020,消费者金融,Consumer Finance,4020,3
 402030,资本市场,Capital Markets,4020,3
 402040,抵押房地产投资信托（REIT）,Mortgage Real Estate Investment Trusts (REITs),4020,3

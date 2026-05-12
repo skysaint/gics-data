@@ -134,14 +134,14 @@
   },
   {
     "code": 2550,
-    "name_cn": "零售",
+    "name_cn": "非必需消费品分销与零售",
     "name_en": "Consumer Discretionary Distribution & Retail",
     "parent_code": 25,
     "level_num": 2
   },
   {
     "code": 3010,
-    "name_cn": "食品和主食零售",
+    "name_cn": "必需消费品分销与零售",
     "name_en": "Consumer Staples Distribution & Retail",
     "parent_code": 30,
     "level_num": 2
@@ -183,7 +183,7 @@
   },
   {
     "code": 4020,
-    "name_cn": "多元化金融",
+    "name_cn": "金融服务",
     "name_en": "Financial Services",
     "parent_code": 40,
     "level_num": 2
@@ -239,7 +239,7 @@
   },
   {
     "code": 6010,
-    "name_cn": "房地产",
+    "name_cn": "权益房地产投资信托（REITs）",
     "name_en": "Equity Real Estate Investment Trusts (REITs)",
     "parent_code": 60,
     "level_num": 2
@@ -470,7 +470,7 @@
   },
   {
     "code": 301010,
-    "name_cn": "食品和主食零售",
+    "name_cn": "必需消费品分销与零售",
     "name_en": "Consumer Staples Distribution & Retail",
     "parent_code": 3010,
     "level_num": 3
@@ -561,7 +561,7 @@
   },
   {
     "code": 402010,
-    "name_cn": "多元化金融服务",
+    "name_cn": "金融服务",
     "name_en": "Financial Services",
     "parent_code": 4020,
     "level_num": 3
